@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body h1::before {
+  content: none !important;
+  display: none !important;
+}
+
+.markdown-body h1 a {
+  display: none !important;
+}
