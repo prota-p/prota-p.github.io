@@ -1,18 +1,27 @@
 [For Japanese version, click here](./index.md)
 
-Updated at Oct. 2025
+Updated at Nov. 2025
 # Haruto Tanno
-Ph.D. in Engineering | Microsoft MVP (.NET) | Programming Innovation Lab (Self-employed)
+Ph.D. in Engineering | Microsoft MVP (Developer Technologies/.NET) 
 
 <img src="../assets/images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
 ## Summary
 
-I am a researcher and engineer with a proven track record in software test automation and generative AI applications, driving projects from research and development to real-world implementation and business deployment.
+I have consistently led efforts ranging from research and development in software test automation and generative AI applications to real-world implementation and business deployment.  
+During my tenure at NTT, I directed numerous collaborative projects involving group companies, external partners, and academic institutions, contributing broadly to the deployment of research outcomes into practical services.  
+My track record includes over 100 research publications (including top-tier international conferences), more than 50 domestic patents and 20 U.S. patents, and over 20 awards from academic societies and industry organizations.
 
-During my tenure at NTT, I led numerous collaborative projects involving group companies, external partners, and academic institutions, resulting in successful service launches and business expansion.
+Currently, I work as a mentor and technical advisor in software development and generative AI utilization,  
+providing personalized guidance and hands-on support primarily to individual developers.  
+This includes advising on practical engineering challenges related to their professional projects, such as corporate development work and entrepreneurial product development.
 
-Currently, as an independent professional, I focus on programming mentorship and independent R&D (including debugger development and generative AI applications), contributing to the advancement of software development and talent cultivation.
+In addition, I am actively engaged in technical education and content creation focused on C#  
+—including a blog with 20,000+ monthly page views and a YouTube channel with 3,000+ subscribers—  
+as well as independent R&D projects such as a real-time debugging framework.
+
+Through these combined activities, I aim to advance software engineering practices  
+and contribute to the growth of the next generation of developers.
 
 ## Experience
 
