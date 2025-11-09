@@ -213,7 +213,6 @@ NTT在籍時にはグループ内外・産学連携プロジェクトを多数�
 1. 熊川 一平，峯尾 彩，丹野 治門，切貫 弘之，倉林 利行: "SONAR Testing 効率と客観性を両立した新たなテスト手法", 日本科学技術連盟 ソフトウェア品質シンポジウム2019, 2019年9月 [経験論文] (**SQiP Best Paper Effective Award**) ([paper](https://www.juse.jp/sqip/symposium/2019/timetable/files/A3-2_ronbun.pdf), [slide](https://www.juse.jp/sqip/symposium/2019/timetable/files/A3-2_happyou.pdf))
 1. 肥後 芳樹, まつ本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "設定ファイルを考慮した自動バグ限局手法の拡張", ソフトウェアエンジニアリングシンポジウム2019 論文集 pp. 97-105，2019年8月 [ロング発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=198949&amp;item_no=1&amp;page_id=13&amp;block_id=8))
 1. 切貫弘之, 倉林利行, 丹野治門, 熊川一平, 永田啓悟: "探索的テストと操作の記録を組み合わせた新たなテスト手法の提案", 電子情報通信学会技術研究報, vol. 119, no. 56, KBSE2019-7, pp. 43-48, 2019年5月 ([paper](https://www.ieice.org/ken/paper/2019052581N3/))
-Sure, here are your citations in Markdown format:
 1. 吉村 優, 安達 悠, 丹野 治門: "UIレイアウトテストにおける画面構成を考慮した段階的差異検出手法の提案", 電子情報通信学会技術研究報, vol. 118, no. 471, SS2018-76, pp. 145-150, 2019年3月 ([paper](https://www.ieice.org/ken/paper/20190305W1K3/))
 1. 倉林 利行, 切貫 弘之, 吉村 優, 安達 悠, 丹野 治門: "テストスクリプト自動生成における適切な粒度の画面遷移テストの試み", 電子情報通信学会技術研究報, vol. 118, no. 471, SS2018-75, pp. 139-144, 2019年3月 ([paper](https://www.ieice.org/ken/paper/20190305p1K3/))
 1. 安達 悠, 丹野 治門, 吉村 優: "Visual Regression Testingにおいて画面要素の位置関係によってマスク領域を指定する手法", ソフトウェア工学の基礎 ２５ 日本ソフトウェア科学会ＦＯＳＥ ２０１８ （レクチャーノート／ソフトウェア学） pp. 25-30, 2018年11月 [ショートペーパー] 
