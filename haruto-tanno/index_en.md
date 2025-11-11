@@ -9,7 +9,7 @@ Ph.D. in Engineering | Microsoft MVP (Developer Technologies/.NET)
 ## Summary
 
 I have consistently led efforts ranging from research and development in software test automation and generative AI applications to real-world implementation and business deployment.  
-During my tenure at NTT, I directed numerous collaborative projects involving group companies, external partners, and academic institutions, contributing broadly to the deployment of research outcomes into practical services.  
+During my tenure at NTT Laboratories, I directed numerous collaborative projects involving group companies, external partners, and academic institutions, contributing broadly to the deployment of research outcomes into practical services.  
 My track record includes over 100 research publications (including top-tier international conferences), more than 50 domestic patents and 20 U.S. patents, and over 20 awards from academic societies and industry organizations.
 
 Currently, I work as a mentor and technical advisor in software development and generative AI utilization,  
