@@ -5,6 +5,8 @@
 # 丹野 治門（たんの　はると）
 博士（工学）｜Microsoft MVP（Developer Technologies／.NET）｜IPA未踏ユース スーパークリエータ
 
+ソフトウェア開発・生成AI活用のメンター／技術アドバイザー｜技術教育・コンテンツ制作
+
 <img src="../assets/images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
 ## 概要
