@@ -42,7 +42,7 @@
 <img src="../assets/images/tanno.jpg" alt="写真" title="写真" width="250"/>
 
 ### 丹野 治門 (Haruto Tanno)
-**博士（工学）｜Microsoft MVP（Developer Technologies／.NET）｜IPA未踏ユース 天才プログラマ／スーパークリエータ**
+**博士（工学）｜Microsoft MVP（Developer Technologies／.NET）｜IPA未踏ユース スーパークリエータ**
 
 ソフトウェアテスト自動化や生成AI応用の研究開発から、社会実装・事業化まで一貫して推進。NTT研究所在籍時には、グループ内外・産学連携プロジェクトを多数主導し、研究成果の事業導入にも幅広く貢献。論文発表100本以上（トップ国際会議含む）、特許出願は国内50件・米国20件以上、国内外での受賞20件以上。
 
