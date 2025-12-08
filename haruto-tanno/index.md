@@ -292,7 +292,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 石川 太一郎，高田 眞吾，丹野 治門，生沼 守英: "Webアプリケーションに対するConcolic Testingの考察", 第20回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2013年12月
 
 **研究資金の獲得**
-1. 丹野 治門, 唐澤 雄気, 川ノ上 哲規: "みんなで創るRPG", 2007年度Ⅰ期未踏ソフトウェア創造事業未踏ユース部門（採択金額 3,000,000円）, 2007.  ([天才プログラマ/スーパークリエータ認定](https://www.ipa.go.jp/jinzai/mitou/it/qv6pgp000000jo76-att/000050670.pdf))，([成果概要](https://www.ipa.go.jp/archive/files/000006905.pdf)，[成果詳細](https://www.ipa.go.jp/archive/files/000006906.pdf))
+1. 丹野 治門, 唐澤 雄気, 川ノ上 哲規: "みんなで創るRPG", 2007年度Ⅰ期未踏ソフトウェア創造事業未踏ユース部門（採択金額 3,000,000円）, 2007.  ([スーパークリエータ認定](https://www.ipa.go.jp/jinzai/mitou/it/qv6pgp000000jo76-att/000050670.pdf))，([成果概要](https://www.ipa.go.jp/archive/files/000006905.pdf)，[成果詳細](https://www.ipa.go.jp/archive/files/000006906.pdf))
 
 **その他出版物**
 1. Hiroyuki Kirinuki, Haruto Tanno: "ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis", eprint arXiv:2401.13924, January 2024. ([preprint](https://arxiv.org/abs/2401.13924))
