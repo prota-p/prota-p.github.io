@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2025年11月
+最終更新日: 2025年12月
 
 # 丹野 治門（たんの　はると）
 博士（工学）｜Microsoft MVP（Developer Technologies／.NET）｜IPA未踏ユース スーパークリエータ
@@ -16,7 +16,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 
 現在は、ソフトウェア開発・生成AI活用のメンター／技術アドバイザーとして、個人を中心とした技術指導・伴走支援を行い、受講者が取り組む実務プロジェクト（企業での開発や起業プロジェクト）に関する技術相談にも対応。
 
-C# を中心とした技術教育・コンテンツ制作（ブログ20,000PV+/月、YouTube登録者3,000+）、リアルタイムデバッガなどの独自研究開発にも注力している。
+ブログ（月間25,000+PV）・YouTube（登録者数3,200+）でC#に関する技術発信を行うほか、大学外部講師としてテスト自動化の講義も担当。独自のリアルタイムデバッガに関する研究開発にも取り組んでいる。
 
 ## 経歴
 
@@ -103,8 +103,8 @@ C# を中心とした技術教育・コンテンツ制作（ブログ20,000PV+/�
 
 ## 受賞
 **自身の受賞**
-1. 2025年 10月 Microsoft MVP for Developer Technologies（.NET）, Microsoft
-1. 2025年 9月 解説論文賞, 日本ソフトウェア科学会, "プログラム合成技術の動向調査" (倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志)
+1. 2025年 10月 [Microsoft MVP for Developer Technologies（.NET）](https://mvp.microsoft.com/ja-JP/MVP/profile/7223f496-33c3-4050-bb00-617e3e349151), Microsoft
+1. 2025年 9月 [解説論文賞](https://www.jssst.or.jp/award/detail/kaisetsu_ronbunsho_list.html), 日本ソフトウェア科学会, "プログラム合成技術の動向調査" (倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志)
 1. 2024年 9月 [研究奨励賞](https://ses.sigse.jp/2024/), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2024, "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査" (切貫 弘之、丹野 治門)
 1. 2022年 9月 [ソフトウェア工学研究会活動貢献賞](https://www.sigse.jp/award.html), 情報処理学会 ソフトウェア工学研究会
 1. 2022年 4月 [情報処理学会論文誌ジャーナル/JIP特選論文](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html), 情報処理学会, "Automating End-to-End Web Testing bis Manual Testing" (Hiroyuki Kirinuki, Haruto Tanno)
