@@ -1,6 +1,6 @@
 [For Japanese version, click here](./index.md)
 
-Updated at Nov. 2025
+Last updated: April 2026
 # Haruto Tanno
 Ph.D. in Engineering | Microsoft MVP (Developer Technologies/.NET) 
 
@@ -8,19 +8,19 @@ Ph.D. in Engineering | Microsoft MVP (Developer Technologies/.NET)
 
 ## Summary
 
-I have consistently led efforts ranging from research and development in software test automation and generative AI applications to real-world implementation and business deployment.  
-During my tenure at NTT Laboratories, I directed numerous collaborative projects involving group companies, external partners, and academic institutions, contributing broadly to the deployment of research outcomes into practical services.  
-My track record includes over 100 research publications (including top-tier international conferences), more than 50 domestic patents and 20 U.S. patents, and over 20 awards from academic societies and industry organizations.
+I have led end-to-end initiatives spanning research and development in software test automation and generative AI through to real-world deployment and commercialization.
+During my time at NTT Laboratories, I led numerous collaborative projects involving group companies, external partners, and academic institutions, contributing substantially to translating research outcomes into practical services.
+My track record includes over 100 research publications (including papers at top-tier international conferences), more than 50 domestic and 20 U.S. patents, and over 20 awards from academic societies and industry organizations.
 
-Currently, I work as a mentor and technical advisor in software development and generative AI utilization,  
-providing personalized guidance and hands-on support primarily to individual developers.  
-This includes advising on practical engineering challenges related to their professional projects, such as corporate development work and entrepreneurial product development.
+Currently, I work as a mentor and technical advisor in software development and generative AI,
+providing personalized guidance and hands-on support primarily to individual developers.
+This includes advising on practical engineering challenges they face in their professional work, such as corporate development projects and entrepreneurial product development.
 
-In addition, I am actively engaged in technical education and content creation focused on C#  
-—including a blog with 20,000+ monthly page views and a YouTube channel with 3,000+ subscribers—  
+In addition, I am actively engaged in technical education and content creation focused on C#
+—including a blog with 25,000+ monthly page views and a YouTube channel with 4,000+ subscribers—
 as well as independent R&D projects such as a real-time debugging framework.
 
-Through these combined activities, I aim to advance software engineering practices  
+Through these combined activities, I aim to advance software engineering practices
 and contribute to the growth of the next generation of developers.
 
 ## Experience
@@ -116,11 +116,11 @@ Recently, I have been particularly interested in **how the emergence of generati
 1. Haruto Tanno, Hideya Iwasaki: "Parallel Skeletons for Variable-length Lists in SkeTo Skeleton Library", 15th European Conference on Parallel Processing (Euro-Par 2009), Lecture Notes in Computer Science 5704, Springer, pp. 666-677, August 2009 ([paper](http://dl.acm.org/citation.cfm?id=1616772.1616845&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 
 **Academic Journals**
-1. Hiroto Watanabe, Masayu Matsumoto, Yoshihiko Higo, Shinji Kusumoto, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "Program Slice-based Crossoverfor Automated Program Genration", (in Japanese), Journal of Information Processing, Vol. 65, No. 3, pp. 718-728, 2024. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=233368&item_no=1)).
+1. Hiroto Watanabe, Masayu Matsumoto, Yoshihiko Higo, Shinji Kusumoto, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "Program Slice-based Crossover Automated Program Genration", (in Japanese), Journal of Information Processing, Vol. 65, No. 3, pp. 718-728, 2024. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=233368&item_no=1)).
 
 1. Toshiyuki Kurabayashi, Haruto Tanno, Hiroyuki Kirinuki, Tsuyoshi Oshima: "プログラム合成技術の動向" (Trends in Program Synthesis Technology - unofficial English translation), (in Japanese), Computer Software, Vol. 40, No. 2, pp. 2_95-2_128, 2023 ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 2. Hiroto Watanabe, Masayu Togemoto, Yoshihiko Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-objective Genetic Algorithm to Improve Automated Program Generation by Selecting Complementary Variants", (in Japanese), Journal of the Information Processing Society of Japan, Vol.63, No.10, pp.1564--1573, October 2022 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=220343&amp;item_no=1)).
-3. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-End Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP Specally Selected Paper**).
+3. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-End Web Testing via Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP Specially Selected Paper**).
 4. Haruto Tanno, Yu Adachi, Yu Yoshimura, Katsuyuki Natsukawa, Hideya Iwasaki: "Region-based Detection of Essential Differences in Image-based Visual Regression Testing", Journal of Information Processing, Vol. 28, pp. 268-278, 2020. ([paper](https://www.jstage.jst.go.jp/article/ipsjjip/28/0/28_268/_article/-char/en)).
 5. Yoshihiko Higo, Masayu Matsumoto, Keigo Naitou, Teruto Tanikado, Shinji Kusumoto, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "An Extended Fault Localization regarding Property Files", (in Japanese), Journal of Information Processing, Vol. 61, No. 4, pp. 884-894, 2020. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=204333&amp;item_no=1)).
 6. Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "Recommending Correct Locator for Broken Test Scripts using Various Clues in Web Application", Computer Software, Vol. 36, No. 4, pp. 4_3-4_17, 2019. ([paper](https://www.jstage.jst.go.jp/article/jssst/36/4/36_4_3/_article/-char/ja)).
