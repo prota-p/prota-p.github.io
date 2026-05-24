@@ -563,9 +563,9 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. "産学連携における傾向と対策"（パネルセッション）, ソフトウェア開発における産学協創フォーラム, 2019年7月1日 ([資料](https://www.slideshare.net/hidetoonoguchi/ss-153262157?ref=https://saicollo.connpass.com/event/131725/presentation/))
 1. "企業のソフトウェア開発に対する自動プログラム修正技術適用に関する産学連携事例紹介", ソフトウェア開発における産学協創フォーラム, 2019年7月1日 ([発表資料](https://www.slideshare.net/ToshiyukiKurabayashi/ss-153331243?ref=https://saicollo.connpass.com/event/131725/presentation/))
 1. "テスト自動化の基本的な考え方とNTTにおける研究開発の紹介", 第25回 SPIトワイライトフォーラム, 2019年3月26日 ([概要](http://www.jaspic.org/events/twilight/2019-03/), [発表資料](http://www.jaspic.org/wordpress/wp-content/uploads/JASPIC_SPI-TwilightForum_20190326.pdf))
-1. "ソフトウェアの研究開発は楽しく", Application Developer Festival 2015 (株式会社リクルートホールディングス)([参考記事](https://oldrelease.recruit-holdings.co.jp/news_data/release/2015/0302_15663))にて講演, 2015年3月28日
+1. "ソフトウェアの研究開発は楽しく", Application Developer Festival 2015 (株式会社リクルートホールディングス)([参考記事](https://oldrelease.recruit-holdings.co.jp/news_data/release/2015/0302_15663.html))にて講演, 2015年3月28日
 1. "Test Automation Technology to Reduce Development Costs and Maintain Software Quality", Berkeley Programming Systems (Chaperone) Retreat, 9th May, 2014
-1. "ソフトウェア開発の楽しさ", 名古屋工業大学の講義「情報工学概論」(情報処理系学生165名が受講), 2008年12月17日([参考：IPA平成２０年度業務実績(p118)](https://www.ipa.go.jp/about/cdk3vs0000002z18-att/000001034.pdf))
+1. "ソフトウェア開発の楽しさ", 名古屋工業大学の講義「情報工学概論」(情報処理系学生165名が受講), 2008年12月17日([参考：IPA平成２０年度業務実績(p118)](https://www.ipa.go.jp/about/cdk3vs0000002z18-att/000001034.pdf#page=120))
 1. "みんなで創るＲＰＧ -kameTL-", 電気通信大学　地域・産学官連携推進機構　特別フォーラム「次世代の天才プログラマー　from電通大」, 2008年11月22日 ([報告](http://www.sangaku.uec.ac.jp/report/report.html))
 
 ## 学位論文
