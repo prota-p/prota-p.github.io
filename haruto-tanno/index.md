@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2026年4月
+最終更新日: 2026年9月
 
 # 丹野 治門（たんの　はると）
 博士（工学）｜Microsoft MVP（Developer Technologies／.NET）｜IPA未踏ユース スーパークリエータ
@@ -16,7 +16,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 
 現在は、ソフトウェア開発・生成AI活用のメンター／技術アドバイザーとして、個人を中心とした技術指導・伴走支援を行うとともに、受講者の実務プロジェクト（企業開発・起業等）に対する技術相談にも対応。
 
-ブログ（月間25,000PV超）・YouTube（登録者数4,000人超）でC#に関する技術発信を継続的に行うほか、大学外部講師としてテスト自動化の講義も担当。独自のリアルタイムデバッガに関する研究開発にも取り組んでいる。
+[ブログ](https://prota-p.com/)（月間25,000PV超）・[YouTube](https://www.youtube.com/@prota_pro)（登録者数4,000人超）でC#に関する技術発信を継続的に行うほか、大学外部講師としてテスト自動化の講義も担当。独自のリアルタイムデバッガに関する研究開発にも取り組んでいる。
 
 ## 経歴
 
@@ -36,9 +36,9 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 - **2003年6月～2007年1月**: 進学舎 小手指校, 非常勤講師。集団指導・個別指導、保護者会、進路相談。
 - **2007年10月～2008年2月**: 電気通信大学 電気通信学部, ティーチングアシスタント。基礎プログラミングおよび演習。
 - **2009年4月～2024年6月**: 日本電信電話株式会社（現、NTT株式会社）。ソフトウェアテスト自動化・生成AIのソフトウェア工学への応用等に関する研究開発及び事業導入。
+- **2024年7月～現在**: プログラミング創造研究所 代表（個人事業主）。ソフトウェア開発・生成AI活用に関するメンタリング・技術アドバイザリー・情報発信。
 - **2024年11月、2025年11月**: 明治大学理工学部 特別講義2, 外部講師。
   「ソフトウェアテスト自動化」の講義を担当。
-- **2024年7月～現在**: プログラミング創造研究所 代表（個人事業主）。プログラミング・ソフトウェア開発に関するコンサルティング・情報発信。
 
 **所属学会**
 - 情報処理学会 正会員
@@ -46,60 +46,39 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 
 ## 専門領域とスキル
 
-**研究領域**
-- **ソフトウェアテスト自動化**
-  - モデルベーステスト、記号実行、回帰テスト、探索的テスト
-- **デバッグ**
-  - リアルタイムデバッグ、ビジュアライゼーション
-- **プログラミング言語**
-  - ドメイン特化言語、コード変換、コード解析
-- **生成AI・AIエージェントを前提としたソフトウェア工学**
-  - AIを前提とした開発プロセス／アーキテクチャの設計
-  - AIによるソフト開発における各タスクの支援・自動化
+**専門領域**
+- **ソフトウェアテスト自動化**：モデルベーステスト、記号実行、回帰テスト、探索的テスト
+- **デバッグ**：リアルタイムデバッグ、ビジュアライゼーション
+- **プログラミング言語**：ドメイン特化言語、コード変換、コード解析
+- **C#/.NET によるアプリケーション開発**：ASP.NET Core Blazor、デスクトップアプリ（WPF／WinForms／Avalonia UI）、Roslyn、アプリケーション設計（クリーンアーキテクチャ・DDD）
+- **生成AI・AIエージェントを前提としたソフトウェア工学**：ハーネスエンジニアリング（エージェント向けの作業指示・専用ツール・ガードレール・レビュー基盤の整備）、AIエージェントが利用する開発ツールの設計、生成AIによるテスト自動化
 
-**関心事項**
+**強み**
+1. **研究開発から事業化までの一貫した推進**：テスト自動化の研究成果をツール化・事業導入・OSS公開まで主導（下記の TesMa、ULTDiff、Regumo、LatteArt）。グループ内外・産学連携プロジェクトの主導、経営層への研究開発ビジョン・ロードマップ提案。
+1. **技術指導・人材育成**：塾講師・大学TA、研究所での部下育成、大学外部講師を経て、現在は個人向けの技術指導・伴走支援と実務プロジェクト（企業開発・起業等）への技術相談に対応。[ブログ](https://prota-p.com/)・[YouTube](https://www.youtube.com/@prota_pro)での技術発信も継続。
+1. **生成AI時代のソフトウェア開発・人材育成の探究**：開発を**楽しく効率よく**行うための、開発プロセスの設計・技術による支援や自動化・人材育成を一貫したテーマとし、**生成AIによってソフトウェア開発や人材育成がどう変わるか／どう変えるべきか**を、研究者・開発者・メンターの三つの立場から探究している。
 
-ソフトウェア開発を**楽しく効率よく**行うため、
-- 開発プロセスはどうあるべきか
-- 個々の工程・タスクを技術でいかに支援・自動化できるか
-- 人材育成や文化醸成をどのように行っていくか
+**開発した主なプロダクト（NTT研究所）**
 
-といったことに興味があります。
-
-最近は特に、**「生成AIの登場によって、ソフトウェア開発や人材育成がどのように変化していくのか、またどのように変えていくべきなのか」** という点に強い関心があります。
-
-**開発スキル**
-- **開発手法**：ウォーターフォール、アジャイル（スクラム）、OSS開発
-- **プログラミング言語**：C#、Java、C/C++、Python、JavaScript/TypeScript
-- **フレームワーク・ツール**：ASP\.NET Core Blazor、Avalonia UI(MVVM + ReactiveUI)、WinForms、Django、Flask、Node.js、Roslyn、DirectX、Docker
-- **データベース**：SQL Server、SQLite、PostgreSQL
-- **クラウドプラットフォーム**：Azure、AWS
-- **テスト自動化**：xUnit、Moq、Selenium、Playwright、Avalonia UI Headless Testing
-- **バージョン管理**：Git、GitHub
-- **CI/CD**：GitHub Actions、Releases
-- **生成AI**：ChatGPT、Claude、GitHub Copilot
-
-**マネジメントスキル**
-- **戦略的計画**: 研究開発のビジョンやロードマップを策定し、経営層・幹部へ方向性を明確に提案・説明。
-- **人材育成とキャリア支援**: 部下の研究活動・論文執筆・開発マネジメントをサポートし、学会運営などの機会提供を通じてキャリア形成を促進。
-- **企業間連携**: グループ会社や他社との連携を推進し、複数組織が関わる研究開発プロジェクトを効率的に主導・管理。
-- **産学連携**: 大学や研究機関と緊密に協力し、共同研究・技術交流・人材育成によるイノベーション創出を推進。
-
-**開発した主なプロダクト/技術**
 1. 機能テスト設計支援ツールTesMa
    - 2013年10月 [NTT技術ジャーナル記事](http://www.ntt.co.jp/journal/1310/files/jn201310019.pdf)
 
 1. UIレイアウトテスト支援ツールULTDiff
-   - 2017年4月 NTTレゾナント社でサービス公開 ([プレスリリース](https://pr.goo.ne.jp/goo/2017/20322/))
+   - 2017年4月 NTTレゾナント社でサービス公開 ([参考：日本経済新聞のWeb記事](https://www.nikkei.com/article/DGXLRSP444412_Z00C17A5000000/))
    - 2019年7月 産学協創フォーラム ([発表資料](https://www.slideshare.net/ToshiyukiKurabayashi/visual-regression-testing-153329603))
 
 1. リバースベーステスト技術Regumo
-   - 2018年4月 ICST2018デモ動画 ([デモ動画](https://www.youtube.com/watch?v=amLyaGb4c_E))
+   - 2018年4月 ICST2018 ([デモ動画](https://www.youtube.com/watch?v=amLyaGb4c_E))
    - 2019年7月 産学協創フォーラム ([発表資料](https://www.slideshare.net/ToshiyukiKurabayashi/regumo))
 
-1. テスト活動のデータ化と分析に基づく新しいテスト手法
-   - 2019年9月 SQiPで発表 ([論文](https://www.juse.jp/sqip/library/shousai/download/index.cgi/A3-2.pdf?id=450))
+1. テスト活動のデータ化と分析に基づく新しいテスト手法・ツール
+   - 2019年9月 ソフトウェア品質シンポジウム2019（SQiP2019）における発表と受賞 ([参考：NTT R&D WebSite](https://www.rd.ntt/cct/news/achievements/2019/302.html))
    - LatteArtをOSSとして公開 ([GitHub](https://github.com/latteart-org/latteart))
+
+**個人で開発しているソフトウェア**
+1. C#アプリ向けリアルタイムデバッガ：動作中のプログラムを停止させずに内部状態を可視化し、挙動の理解やデバッグを支援する技術。未踏ユース時代の成果を出発点に研究開発中（[未踏会議2025で展示](../pil/contents/20250309-mitoukaigi/index.md)）
+1. [MentorApp (OSS)](https://github.com/prota-p/MentorApp)：DDD＋クリーンアーキテクチャによる Blazor Server 学習用リファレンス実装
+1. [CodePromptus (OSS)](https://github.com/prota-p/CodePromptus)：プロジェクトのファイルを選択して生成AI向けプロンプトを自動生成するデスクトップアプリ
 
 ## 受賞
 **自身の受賞**
@@ -114,7 +93,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 2020年9月 [企業・ポスター賞](https://ses.sigse.jp/2020/?fbclid=IwAR3XVy8xRDkU6lNbPpelmq68PKo6iKP7tn5NL4Susnck1T-ES_NuINDfm6g), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2020, "テスト活動ログの可視化に基づく効率性と客観性を両立させたテスト手法" (丹野 治門、切貫 弘之、安達 悠、熊川 一平、熊谷 尚俊、峯尾 彩)
 1. 2020年9月 [最優秀論文賞](https://ses.sigse.jp/2020/?fbclid=IwAR3XVy8xRDkU6lNbPpelmq68PKo6iKP7tn5NL4Susnck1T-ES_NuINDfm6g), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2020, "手動テストのログを用いた有用なEnd-to-Endテストスクリプトの自動生成" (切貫 弘之、丹野 治門)
 1. 2020年9月 [最優秀論文賞](https://ses.sigse.jp/2020/?fbclid=IwAR3XVy8xRDkU6lNbPpelmq68PKo6iKP7tn5NL4Susnck1T-ES_NuINDfm6g), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2020, "深層学習と遺伝的アルゴリズムを用いたプログラム自動生成" (倉林 利行、吉村 優、切貫 弘之、丹野 治門、富田 裕也、松本 淳之介、まつ本 真佑、肥後 芳樹、楠本 真二)
-1. 2019年9月 [SQiP Best Paper Effective Award](https://www.juse.jp/sqip/symposium/2019/report/), 日本科学技術連盟 ソフトウェア品質シンポジウム2019, "SONAR Testing 効率と客観性を両立した新たなテスト手法" (熊川 一平、峯尾 彩、丹野 治門、切貫 弘之、倉林 利行)
+1. 2019年9月 [SQiP Best Paper Effective Award](https://www.rd.ntt/cct/news/achievements/2019/302.html), 日本科学技術連盟 ソフトウェア品質シンポジウム2019, "SONAR Testing 効率と客観性を両立した新たなテスト手法" (熊川 一平、峯尾 彩、丹野 治門、切貫 弘之、倉林 利行)
 1. 2019年2月 所長表彰(特別賞), NTT ソフトウェアイノベーションセンタ, "UIレイアウト比較技術ULTDiffにおける事業貢献" (丹野 治門、他7名)
 1. 2018年9月 [優秀発表賞](https://jssst2018.wordpress.com/), 日本ソフトウェア科学会第35回大会, "プログラムを停止させないデバッグを可能とする手法の提案"
 1. 2018年9月 [学生奨励賞](https://jssst2018.wordpress.com/), 日本ソフトウェア科学会第35回大会, "プログラムを停止させないデバッグを可能とする手法の提案"
@@ -161,14 +140,14 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. Haruto Tanno, Yuu Adachi: "Support for Finding Presentation Failures by Using Computer Vision Techniques", Testing - Practice and Research Techniques, 13th Workshop on Testing: Academia-Industry Collaboration, Practice and Research Techniques (TAIC PART 2018), April 2018 ([paper](http://conferences.computer.org/icst/2018/pdfs/ICSTW2018-5BPslL5kDKSjDzJaHtElD4/4QCU1uoQ9QV74UmbgtIwZ9/4k29Dwa2FP5dDKwVLD2UvS.pdf)).
 1. Toshiyuki Kurabayashi, Muneyoshi Iyama, Hiroyuki Kirinuki, Haruto Tanno: "Automatically Generating Test Scripts for GUI Testing", 1st IEEE Workshop on NEXt level of Test Automation (NEXTA 2018), April 2018 ([paper](http://conferences.computer.org/icst/2018/pdfs/ICSTW2018-5BPslL5kDKSjDzJaHtElD4/1MxNs1xNzM1IFmveO7CCU2/3BgGdPT65BjDRJtF9unX8k.pdf)).
 1. Keiichi Tabata, Haruto Tanno, Morihide Oinuma: "Helping Testers by Fault-Prone Functionality Prediction", 10th Asia-Pacific Symposium on Information and Telecommunication Technologies (APSITT 2015), pp. 1-3, August 2015 ([paper](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&amp;arnumber=7217084&amp;filter%3DAND(p_IS_Number%3A7217073)).
-1. Akihiro Hori, Shingo Takada, Haruto Tanno, Morihide Oinuma: "An Oracle based on Image Comparison for Regression Testing of Web Applications", The Twenty-Seventh International Conference on Software Engineering and Knowledge Engineering (SEKE 2015), July 2015 ([paper](http://ksiresearchorg.ipage.com/seke/seke15paper/seke15paper_17.pdf)).
+1. Akihiro Hori, Shingo Takada, Haruto Tanno, Morihide Oinuma: "An Oracle based on Image Comparison for Regression Testing of Web Applications", The Twenty-Seventh International Conference on Software Engineering and Knowledge Engineering (SEKE 2015), July 2015 ([paper](https://ksiresearchorg.ipage.com/seke/seke15paper/seke15paper_17.pdf)).
 1. Haruto Tanno, Xiaojing Zhang: "Test Script Generation Based on Design Documents for Web Application Testing", The 39th Annual International Computers, Software & Applications Conference(COMPSAC 2015)[fast abstract], pp. 672-673, July 2015 ([paper](http://ieeexplore.ieee.org/document/7273458/)).
 1. Koushik Sen, Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "GUIDESE: Annotations for Guiding Concolic Testing", Tenth IEEE/ACM International Workshop on Automation of Software Test (AST 2015), pp. 23-27, May 2015 ([paper](http://ieeexplore.ieee.org/document/7166261/)).
 1. Haruto Tanno, Xiaojing Zhang, Takashi Hoshino, Koushik Sen: "TesMa and CATG: Automated Test Generation Tools for Models of Enterprise Applications", The 37th International Conference on Software Engineering (ICSE 2015)[Demonstrations Track], pp. 717-720, May 2015 ([paper](http://ieeexplore.ieee.org/document/7203051/), [movie](https://www.youtube.com/watch?v=9lEvPwR7g-Q)).
-1. Xiaojing Zhang, Haruto Tanno: "Requirements Document Based Test Scenario Generation for Web Application Scenario Testing", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2015) [short paper], pp. 1-3, April 2015 ([slide](http://www2015.taicpart.org/slides/Zhang-TAICPART2015-Presentation.pdf), [paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7107465&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7107465)).
-1. Hibiki Saito, Shingo Takada, Haruto Tanno, Morihide Oinuma: "Test Data Generation for Web Applications: A Constraint and Knowledge-based Approach", The Twenty-Sixth International Conference on Software Engineering and Knowledge Engineering (SEKE 2014) [short paper], pp. 110-114, July 2014 ([paper](http://ksiresearchorg.ipage.com/seke/seke14paper/seke14paper_44.pdf)).
+1. Xiaojing Zhang, Haruto Tanno: "Requirements Document Based Test Scenario Generation for Web Application Scenario Testing", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2015) [short paper], pp. 1-3, April 2015 ([paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7107465&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7107465)).
+1. Hibiki Saito, Shingo Takada, Haruto Tanno, Morihide Oinuma: "Test Data Generation for Web Applications: A Constraint and Knowledge-based Approach", The Twenty-Sixth International Conference on Software Engineering and Knowledge Engineering (SEKE 2014) [short paper], pp. 110-114, July 2014 ([paper](https://www.semanticscholar.org/paper/Test-Data-Generation-for-Web-Applications%3A-A-and-Saito-Takada/2c4f5b96fee26bda0087fade08686c5dcc2d3f9e)).
 1. Haruto Tanno, Takashi Hoshino: "Reducing the Number of Initial Database States for Integration Testing", The 5th IEEE International Workshop on Software Test Automation (STA 2013), July 2013 ([paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6605764&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6605764)).
-1. Rogene Lacanienta, Shingo Takada, Haruto Tanno, Morihide Oinuma: "A Knowledge-based Approach for Generating Test Scenarios for Web Applications", The Twenty-Fifth International Conference on Software Engineering and Knowledge Engineering (SEKE 2013), June 2013 ([paper](http://index.ksi.edu/conf/seke/2013/cr/67.pdf)).
+1. Rogene Lacanienta, Shingo Takada, Haruto Tanno, Morihide Oinuma: "A Knowledge-based Approach for Generating Test Scenarios for Web Applications", The Twenty-Fifth International Conference on Software Engineering and Knowledge Engineering (SEKE 2013), June 2013 ([paper](https://www.researchgate.net/publication/289149785_A_knowledge-based_approach_for_generating_test_scenarios_for_web_applications)).
 1. Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "Design-Model-Based Test Data Generation for Database Applications", 4th Workshop on Model-based Testing in Practice (MoTiP 2012), pp. 201-206, November 2012 ([paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6405442&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6403648%2F6405406%2F06405442.pdf%3Farnumber%3D6405442)).
 1. Rogene Lacanienta, Shingo Takada, Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "A mutation test based approach to evaluating test suites for Web applications", Proc. of 10th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2012), pp. 227-236, September 2012 ([paper](http://ebooks.iospress.nl/publication/7166)).
 1. Xiaojing Zhang, Haruto Tanno, Takashi Hoshino: "Introducing Test Case Derivation Techniques into Traditional Software Development: Obstacles and Potentialities", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2011) [short paper], pp. 559-560, March 2011 ([paper](http://dl.acm.org/citation.cfm?id=2004685.2005451&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
@@ -207,14 +186,14 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 倉林 利行，吉村 優，切貫 弘之，丹野 治門，富田 裕也，松本 淳之介，まつ本 真佑，肥後 芳樹，楠本 真二: "深層学習と遺伝的アルゴリズムを用いたプログラム自動生成", ソフトウェアエンジニアリングシンポジウム2020論文集 pp. 143-152，2020年9月 [ロング発表論文] (**山下記念研究賞, 最優秀論文賞, IEEE Computer Society Japan Chapter SES Young Researcher Award**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=206745&amp;item_no=1))
 1. 倉林 利行，吉村 優，切貫 弘之，丹野 治門，富田 裕也，松本 淳之介，まつ本 真佑，肥後 芳樹，楠本 真二: "過去の実装情報を活用したプログラム自動生成", 情報処理学会 研究報告ソフトウェア工学 , vol. 2020-SE-204, no. 8, pp.1-8, 2020年3月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=203470&amp;item_no=1&amp;page_id=13&amp;block_id=8))
 1. 富田 裕也，松本 淳之介，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，切貫 弘之，丹野 治門: "遺伝的アルゴリズムを用いた自動プログラム修正手法を応用したプログラミングコンテストの回答の自動生成に向けて", 情報処理学会 研究報告ソフトウェア工学 , vol. 2020-SE-204, no. 7, pp.1-8, 2020年3月 (**学生研究賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=203469&amp;item_no=1&amp;page_id=13&amp;block_id=8))
-1. 熊川 一平，峯尾 彩，丹野 治門，切貫 弘之，倉林 利行: "SONAR Testing 効率と客観性を両立した新たなテスト手法", 日本科学技術連盟 ソフトウェア品質シンポジウム2019, 2019年9月 [経験論文] (**SQiP Best Paper Effective Award**) ([paper](https://www.juse.jp/sqip/symposium/2019/timetable/files/A3-2_ronbun.pdf), [slide](https://www.juse.jp/sqip/symposium/2019/timetable/files/A3-2_happyou.pdf))
+1. 熊川 一平，峯尾 彩，丹野 治門，切貫 弘之，倉林 利行: "SONAR Testing 効率と客観性を両立した新たなテスト手法", 日本科学技術連盟 ソフトウェア品質シンポジウム2019, 2019年9月 [経験論文] (**SQiP Best Paper Effective Award**) ([paper](https://www.juse.jp/sqip/library/download/index.cgi/A3-2.pdf?id=450))
 1. 肥後 芳樹, まつ本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "設定ファイルを考慮した自動バグ限局手法の拡張", ソフトウェアエンジニアリングシンポジウム2019 論文集 pp. 97-105，2019年8月 [ロング発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=198949&amp;item_no=1&amp;page_id=13&amp;block_id=8))
 1. 切貫弘之, 倉林利行, 丹野治門, 熊川一平, 永田啓悟: "探索的テストと操作の記録を組み合わせた新たなテスト手法の提案", 電子情報通信学会技術研究報, vol. 119, no. 56, KBSE2019-7, pp. 43-48, 2019年5月 ([paper](https://www.ieice.org/ken/paper/2019052581N3/))
 1. 吉村 優, 安達 悠, 丹野 治門: "UIレイアウトテストにおける画面構成を考慮した段階的差異検出手法の提案", 電子情報通信学会技術研究報, vol. 118, no. 471, SS2018-76, pp. 145-150, 2019年3月 ([paper](https://www.ieice.org/ken/paper/20190305W1K3/))
 1. 倉林 利行, 切貫 弘之, 吉村 優, 安達 悠, 丹野 治門: "テストスクリプト自動生成における適切な粒度の画面遷移テストの試み", 電子情報通信学会技術研究報, vol. 118, no. 471, SS2018-75, pp. 139-144, 2019年3月 ([paper](https://www.ieice.org/ken/paper/20190305p1K3/))
 1. 安達 悠, 丹野 治門, 吉村 優: "Visual Regression Testingにおいて画面要素の位置関係によってマスク領域を指定する手法", ソフトウェア工学の基礎 ２５ 日本ソフトウェア科学会ＦＯＳＥ ２０１８ （レクチャーノート／ソフトウェア学） pp. 25-30, 2018年11月 [ショートペーパー] 
 1. 丹野 治門，岩崎 英哉: "プログラムを停止させないデバッグを可能とする手法の提案", 日本ソフトウェア科学会 第35回大会講演論文集, 2018年8月 (**学生奨励賞，優秀発表賞**) ([paper](http://jssst.or.jp/files/user/taikai/2018/GENERAL/general4-1.pdf), [slide](../assets/slides/slide(jssst2018).pdf))
-1. 内藤 圭吾, 谷門 照斗, まつ本 真佑, 肥後 芳樹, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "企業のソフトウェア開発に対する自動プログラム修正技術適用の試み", ソフトウェアエンジニアリングシンポジウム2018 論文集 pp. 139-147，2018年9月 [ロング発表論文] (**企業賞，山下記念研究賞**) ([paper](https://sdl.ist.osaka-u.ac.jp/pman/pman3.cgi?DOWNLOAD=432))
+1. 内藤 圭吾, 谷門 照斗, まつ本 真佑, 肥後 芳樹, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "企業のソフトウェア開発に対する自動プログラム修正技術適用の試み", ソフトウェアエンジニアリングシンポジウム2018 論文集 pp. 139-147，2018年9月 [ロング発表論文] (**企業賞，山下記念研究賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/records/191072))
 1. 倉林 利行, 切貫 弘之, 丹野 治門: "テストスクリプトの自動生成におけるテスト入力値作成支援技術の提案", 情報処理学会 研究報告ソフトウェア工学, vol. 2018-SE-199, no. 13, pp.1-7, 2018年7月 ([paper](https://ipsj.ixsq.nii.ac.jp/records/190426))
 1. 内藤 圭吾, 谷門 照斗, まつ本 真佑, 肥後 芳樹, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "企業におけるソフトウェア開発に対する自動プログラム修正技術", 電子情報通信学会技術研究報, vol. 117, no. 381, SS2017-36, pp. 13-18, 2018年1月
 1. 倉林 利行, 伊山 宗吉, 切貫 弘之, 丹野 治門: "画面操作を伴うテストにおけるテストスクリプトの自動生成手法", ソフトウェアエンジニアリングシンポジウム2017論文集 pp. 260-264, 2017年9月 [一般論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183240&item_no=1&page_id=13&block_id=8))
@@ -227,7 +206,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 倉林 利行, 張 暁晶, 丹野 治門: "動的記号実行と探索的テストによる高カバレッジの結合テスト向けテストデータ自動生成手法", ソフトウェアエンジニアリングシンポジウム2016論文集, pp 147-152, 2016年9月 [short paper] (**コンピュータサイエンス領域奨励賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174368&item_no=1&page_id=13&block_id=8))
 1. 丹野 治門, 張 暁晶: "テストケースの事前条件として適切なDB初期状態の状態数とデータサイズを削減する手法の提案 ", ソフトウェアエンジニアリングシンポジウム2016論文集 ,pp. 135-146, 2016年9月 [full paper] (**企業賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174367&item_no=1&page_id=13&block_id=8))
 1. 嶌津 達也，高田 眞吾，倉林 利行，丹野 治門, "ミューテーションテストを利用した遺伝的アルゴリズムによるAndroidアプリケーション用テストスイート生成", ソフトウェアエンジニアリングシンポジウム2016論文集, pp 227-232, 2016年9月 [一般論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174378&item_no=1&page_id=13&block_id=8))
-1. 安達 悠, 岩田 真治, 丹野 治門, 清水 誠介, 今井 勝俊,: "対話型アプリケーションを対象とした多種多様な環境に対応できるテスト実行自動化に関する手法", ソフトウェア・シンポジウム2016[Future Presentation], 2016年6月 ([paper](http://sea.jp/ss2016/accepted_papers.html#session12))
+1. 安達 悠, 岩田 真治, 丹野 治門, 清水 誠介, 今井 勝俊,: "対話型アプリケーションを対象とした多種多様な環境に対応できるテスト実行自動化に関する手法", ソフトウェア・シンポジウム2016[Future Presentation], 2016年6月 ([paper](https://www.sea.jp/ss2016/download/5-3_SS2016.pdf))
 1. 倉林 利行, 張 暁晶, 丹野 治門: "SBSTを用いた高カバレッジの結合テスト向けテストデータ自動生成手法", 情報処理学会 研究報告ソフトウェア工学, vol. 2016-SE-192, no. 1, pp.1-8, 2016年6月([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=163635&item_no=1&page_id=13&block_id=8))
 1. 堀 旭宏, 高田 眞吾，倉林 利行，丹野 治門: "Webアプリケーションに対する回帰テストオラクル自動生成", 第22回 ソフトウェア工学の基礎ワークショップ[ライブ論文], p223-224, 2015年11月
 1. 丹野 治門, 岩田 真治, 高田 眞吾: "ソフトウェアテストの新技術と実践", ソフトウェアエンジニアリングシンポジウム2015論文集 ,pp. 222-222, 2015年9月([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=144927&item_no=1&page_id=13&block_id=8))
@@ -241,8 +220,8 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 張 暁晶, 丹野 治門, 生沼 守英: "モデルベーステストにおけるトレーサビリティの確保と活用", 電子情報通信学会技術研究報, vol. 114, no. 127, SS2014-27, pp. 163-168, 2014年7月 ([abstract](http://www.ieice.org/ken/paper/20140711iBow/))
 1. 丹野 治門, 張 暁晶, 生沼 守英: "ソースコード生成を利用した結合テスト向けデータベース生成手法の提案", 情報処理学会 研究報告ソフトウェア工学 , vol. 2014-SE-185, no. 25, pp.1-8, 2014年7月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=102044&item_no=1&page_id=13&block_id=8))
 1. 石川 太一郎，高田 眞吾，丹野 治門，生沼 守英: " Concolic Testingを用いたWebアプリケーションに対するテストデータ生成に関する研究", 情報処理学会 研究報告ソフトウェア工学 , vol. 2014-SE-183, no. 1, pp.1-8, 2014年3月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=99411&item_no=1&page_id=13&block_id=8))
-1. 丹野治門，張 暁晶, 星野 隆: "シナリオテストにおけるテスト項目自動生成手法の提案", 情報処理学会第76回全国大会，6A-3, 2014年3月 ([abstract](https://www.gakkai-web.net/gakkai/ipsj/76program/data/pdf/6A-3.html))
-1. 齋藤 響, 高田 眞吾, 丹野 治門, 生沼 守英: "Web アプリケーション用テストデータの生成", 情報処理学会第76回全国大会，3L-6, 2014年3月 (**学生奨励賞**) ([abstract](https://www.gakkai-web.net/gakkai/ipsj/76program/data/pdf/3L-6.html))
+1. 丹野治門，張 暁晶, 星野 隆: "シナリオテストにおけるテスト項目自動生成手法の提案", 情報処理学会第76回全国大会，6A-3, 2014年3月 ([abstract](https://www.ipsj.or.jp/event/taikai/76/76program/data/pdf/6A-3.html))
+1. 齋藤 響, 高田 眞吾, 丹野 治門, 生沼 守英: "Web アプリケーション用テストデータの生成", 情報処理学会第76回全国大会，3L-6, 2014年3月 (**学生奨励賞**) ([abstract](https://www.ipsj.or.jp/event/taikai/76/76program/data/pdf/3L-6.html))
 1. 張 暁晶, 丹野 治門, 星野 隆: "設計書に基づくテスト項目抽出手法の提案および既存開発プロセスへの適用", 電子情報通信学会技術研究報, vol. 113, no. 269, SS2013-46, pp. 167-174, 2013年10月 ([abstract](http://www.ieice.org/ken/paper/20131025PB6w/))
 1. 丹野 治門, 星 野隆，Koushik Sen，高橋 健司: "Concolic Testingを用いた結合テスト向けテストデータ生成手法の提案", 情報処理学会 研究報告ソフトウェア工学 , vol. 2013-SE-182, no. 6, pp.1-8, 2013年10月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=95556&item_no=1&page_id=13&block_id=8))
 1. 深谷 雅洋, Rogene Lacanienta, 高田 眞吾, 丹野 治門, 張 暁晶, 星野 隆: "Webアプリケーションを対象としたテストスイートの評価～ミューテーションテストにもとづいた手法～", 情報処理学会 研究報告ソフトウェア工学, vol. 2012-SE-175, no 15, pp.1-8, 2012年3月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=81081&item_no=1&page_id=13&block_id=8))
@@ -299,13 +278,13 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. Haruto Tanno, Hiroyuki Kirinuki, Takahiro Kawaguchi, Masaki Tajima, Morihide Oinuma, Tatsuya Muramoto: "Test-activity Analysis for Efficient Iterative Testing", NTT Technical Review, February 2022 Vol. 20 No. 4, pp.26-31, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202204fa4.html))
 1. 丹野 治門，切貫 弘之, 川口 敬宏, 但馬　将貴, 生沼　守英, 村本 達也: "繰り返し型の効率的なテストを実現するテスト活動データ分析技術", NTT技術ジャーナル, 2022, Vol 34, No.2, pp.18-21, 2022年2月.([article](https://journal.ntt.co.jp/article/17191))
 1. Haruto Tanno, Hiroyuki Kirinuki, Yu Adachi, Morihide Oinuma, Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202102fa7.html))
-1. 切貫 弘之, 安達 悠, 丹野 治門: "特集 NTTソフトウェアイノベーションセンタのR&D 探索的テスト支援技術～LatteArtのご紹介～", エンタープライズICT総合誌　月刊ビジネスコミュニケーション2021年2月号, 2021年2月 ([article](https://www.bcm.co.jp/site/2021/02/sic/2102-sic-01-07.pdf))
+1. 切貫 弘之, 安達 悠, 丹野 治門: "特集 NTTソフトウェアイノベーションセンタのR&D 探索的テスト支援技術～LatteArtのご紹介～", エンタープライズICT総合誌　月刊ビジネスコミュニケーション2021年2月号, 2021年2月
 1. 丹野 治門，切貫 弘之, 生沼　守英，安達 悠, 村本 達也: "テスト活動データを分析してバグを狙い撃つテスト自動化技術", NTT技術ジャーナル, 2020, Vol 32, No.12, pp.35-39, 2020年12月.([article](https://journal.ntt.co.jp/wp-content/uploads/2020/12/JN20201235_2.pdf))
 1. 丹野 治門, 岩間 太, 増田 聡: "ICST2019参加報告", コンピュータソフトウェア, ,Vol. 36, No. 4, pp. 4_73-4_78, 2019. ([paper](https://www.jstage.jst.go.jp/article/jssst/36/4/36_4_73/_article/-char/ja/))
 1. 森畑 明昌(編): "日本ソフトウェア科学会第35回大会 受賞者による受賞研究紹介", コンピュータソフトウェア, Vol. 36, No. 2, pp. 2_16-2_20, 2019. 受賞者として一部を担当. ([paper](https://www.jstage.jst.go.jp/article/jssst/36/2/36_2_16/_pdf/-char/ja))
 1. Haruto Tanno, Morihide Oinuma, Katsuyuki Natsukawa: "Test Automation Technology to Promote Early and Frequent Releases of Software at Low Cost", NTT Technical Review, January 2017 Vol. 15 No. 2, February 2017. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201702fa3.html))
 1. 丹野 治門，生沼　守英，夏川 勝行: "ソフトウェアを低コストで早期にリリースすることをめざしたテスト自動化技術", NTT技術ジャーナル, 2016, Vol 28, No.12, pp.19-22, 2016年12月. ([article](http://www.ntt.co.jp/journal/1612/files/jn20161219.pdf))
-1. 張　暁晶，丹野 治門: "結合テスト設計支援ツール「TesMa」を強化テスト自動実行ツールとの連携を実現", エンタープライズICT総合誌　月刊ビジネスコミュニケーション2014年9月号, 2014年9月 ([目次](http://www.bcm.co.jp/site/2014/09/ntt-sic/))
+1. 張　暁晶，丹野 治門: "結合テスト設計支援ツール「TesMa」を強化テスト自動実行ツールとの連携を実現", エンタープライズICT総合誌　月刊ビジネスコミュニケーション2014年9月号, 2014年9月
 1. Haruto Tanno, Xiaojing Zhang, Keiichi Tabata, Morihide Oinuma, Kazuhito Suguri: "Test Automation Technology to Reduce Development Costs and Maintain Software Quality", NTT Technical Review, January 2014 Vol. 12 No. 1, January 2014. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201401fa3.html))
 1. 丹野 治門，張　暁晶，田端　啓一，生沼　守英，村主　一仁: "ソフトウェアの品質確保と開発コスト削減を目指したテスト自動化技術", NTT技術ジャーナル, 2013, Vol 25, No.10, pp.19-22, 2013年10月. ([article](http://www.ntt.co.jp/journal/1310/files/jn201310019.pdf))
 1. 丹野 治門: "テストが全自動で行われる世界を目指して", NTT技術ジャーナル, 2013, Vol 25, No.10, pp.28, 2013年10月. ([article](http://www.ntt.co.jp/journal/1310/files/jn201310028.pdf))
@@ -314,180 +293,62 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 ## 特許
 
 **日本**
-1. 	公開	プログラム生成装置、プログラム生成方法及びプログラム	JP2021104657	JP2023003531A		"倉林 利行
-丹野 治門
-切貫 弘之
-但馬 将貴
-まつ本 真佑"
-1. 登録  テスト支援装置、テスト支援方法及びプログラム　JP2023517014		JP7597211  "安達 悠
-丹野 治門
-切貫 弘之"
-1. 	登録	テストデータ生成装置、テストデータ生成方法、及びプログラム	JP2021558103		JP7268759B	"安達 悠
-丹野 治門
-吉村 優
-切貫 弘之
-倉林 利行"
-1.	登録	操作パターン生成装置、操作パターン生成方法及びプログラム	JP2021554490		JP7283569B	"吉村 優
-安達 悠
-丹野 治門
-切貫 弘之
-倉林 利行"
-1.	登録	テスト情報抽出装置、テスト情報抽出方法及びプログラム	JP2021553903		JP7322964B	"岩塚 卓弥
-丹野 治門
-倉林 利行"
-1.	公開	バグ同定支援装置、バグ同定支援方法及びプログラム	JP2019117779	JP2021005171A		"丹野  治門
-倉林  利行
-切貫  弘之
-肥後  芳樹
-まつ本  真佑
-楠本  真二"
-1.	登録	画面遷移集約装置、画面遷移集約方法及びプログラム	JP2021522595		JP7201080B	"倉林 利行
-丹野 治門
-安達 悠
-切貫 弘之
-吉村 優"
-1.	登録	テストスクリプト生成装置、テストスクリプト生成方法及びプログラム	JP2021521693		JP7259949B	"倉林 利行
-丹野 治門
-安達 悠
-切貫 弘之
-吉村 優"
-1.	登録	テスト装置、テスト方法及びプログラム	JP2021519078		JP7318704B	"切貫 弘之
-丹野 治門
-倉林 利行"
-1.	登録	テスト装置、テスト方法及びプログラム	JP2021518283		JP7327471B	"安達 悠
-丹野 治門
-倉林 利行
-吉村 優
-切貫 弘之"
-1.	登録	入力値設定補助装置、入力値設定補助方法及びプログラム	JP2019074723	JP2020173592A	JP7211229B	"丹野 治門
-切貫 弘之
-倉林 利行
-吉村 優
-安達 悠"
-1.	登録	類似遷移特定装置、類似遷移特定方法及びプログラム	JP2019075121	JP2020173615A	JP7127601B	"吉村 優
-丹野 治門
-安達 悠
-切貫 弘之
-倉林 利行"
-1.	登録	解析装置、解析方法、及びプログラム	JP2019074376	JP2020173570A	JP7211228B	"安達 悠
-丹野 治門
-切貫 弘之
-吉村 優
-倉林 利行"
-1.	登録	テストデータ生成装置、テストデータ生成方法及びプログラム	JP2018200642	JP2020067859A	JP7070328B	"切貫 弘之
-倉林 利行
-丹野 治門"
-1.	公開	プログラム修正装置、プログラム修正方法及びプログラム	JP2018121890	JP2020004003A		"丹野  治門
-倉林  利行
-切貫  弘之
-肥後  芳樹
-楠本  真二
-まつ本  真佑"
-1.	登録	画面判別装置、画面判別方法及びプログラム	JP2018098710	JP2019204265A	JP6792592B	"倉林  利行
-丹野  治門
-伊山  宗吉
-切貫  弘之"
-1.	登録	画面差異抽出装置及びプログラム	JP2018006712	JP2019102042A	JP6718473B	"安達  悠
-丹野  治門"
-1.	登録	テスト実行装置及びプログラム	JP2017233974	JP2019101889A	JP6723976B	"倉林  利行
-伊山  宗吉
-丹野  治門
-切貫  弘之"
-1.	公開	差異画像生成装置及びプログラム	JP2017232823	JP2019101819A		"丹野  治門
-安達  悠"
-1.	登録	テストスクリプト修正装置及びプログラム	JP2017228933	JP2019101537A	JP6840656B	"切貫  弘之
-丹野  治門"
-1.	登録	テストスクリプト修正装置及びプログラム	JP2017228934	JP2019101538A	JP6891779B	"切貫  弘之
-丹野  治門"
-1.	登録	画面差異検出装置及びプログラム	JP2017055707	JP2018160003A	JP6543649B	"丹野  治門
-安達  悠
-鬼頭  宏幸
-生沼  守英"
-1.	登録	テストスクリプト修正装置及びテストスクリプト修正プログラム	JP2016235069	JP2018092361A	JP6645955B	"切貫  弘之
-丹野  治門"
-1.	登録	テストスクリプト修正装置及びテストスクリプト修正プログラム	JP2016235070	JP2018092362A	JP6689734B	"切貫  弘之
-丹野  治門"
-1.	登録	画面差異抽出装置、画面差異抽出方法、及びプログラム	JP2016017972	JP2017138713A	JP6608719B	"丹野  治門
-張  暁晶"
-1.	登録	画面差異確認支援装置、画面差異確認支援方法、及びプログラム	JP2016017973	JP2017138714A	JP6476144B	"丹野  治門
-張  暁晶"
-1.	登録	画面差異合否判定装置、画面差異合否判定方法、及びプログラム	JP2016017974	JP2017138715A	JP6476145B	"丹野  治門
-張  暁晶"
-1.	登録	画面差異評価装置、画面差異評価方法、及びプログラム	JP2016017975	JP2017138716A	JP6476146B	"張  暁晶
-丹野  治門"
-1.	登録	画面差異抽出装置、画面差異抽出方法、及びプログラム	JP2016017976	JP2017138717A	JP6476147B	"張  暁晶
-丹野  治門"
-1.	公開	優先度付きテストシナリオ生成装置、優先度付きテストシナリオ生成方法、及びプログラム	JP2015150718	JP2017033158A		"丹野  治門
-生沼  守英
-高田  眞吾"
-1.	登録	複数入力変数に対する正常系テストデータ生成装置、方法、及びプログラム	JP2014210773	JP2016081228A	JP6007220B	"張  暁晶
-丹野  治門"
-1.	登録	複数入力変数に対する異常系テストデータ生成装置、方法、及びプログラム	JP2014210774	JP2016081229A	JP6007221B	"張  暁晶
-丹野  治門"
-1.	登録	複数入力変数に対する仕様を効率的に網羅できる異常系テストデータ生成装置、方法、及びプログラム	JP2014210775	JP2016081230A	JP6007222B	"張  暁晶
-丹野  治門"
-1.	登録	複数入力変数に対する視認性が高い異常系テストデータ生成装置、方法、及びプログラム	JP2014210776	JP2016081231A	JP6007223B	"張  暁晶
-丹野  治門"
-1.	登録	同値テストデータ生成装置、方法及びプログラム	JP2014210777	JP2016081232A	JP6067642B	"丹野  治門
-張  暁晶"
-1.	登録	境界値テストデータ生成装置、方法及びプログラム	JP2014210778	JP2016081233A	JP6067643B	"丹野  治門
-張  暁晶"
-1.	登録	優先度付き境界値テストデータ生成装置、方法及びプログラム	JP2014210779	JP2016081234A	JP5965455B	"丹野  治門
-張  暁晶"
-1.	登録	不等号誤りを検出する境界値テストデータ生成装置、方法及びプログラム	JP2014210780	JP2016081235A	JP6067644B	"丹野  治門
-張  暁晶"
-1.	公開	バグ予測装置及び方法及びプログラム	JP2014151117	JP2016024784A		"田端  啓一
-丹野  治門
-生沼  守英
-村主  一仁"
-1.	公開	期待結果生成装置及び方法及びプログラム	JP2014136036	JP2016014973A		"丹野  治門
-生沼  守英
-高田  眞吾"
-1.	公開	テストシナリオバリエーション生成装置及び方法及びプログラム	JP2013147851	JP2015022356A		"丹野  治門
-生沼  守英
-ラカニエンタ  ロジーン
-高田  眞吾"
-1.	公開	最小のテストデータ生成装置及び方法及びプログラム	JP2012199321	JP2014056304A		"丹野  治門
-張  暁晶"
-1.	登録	テストパス中に更新アクセスを持つテスト用のデータ生成装置及び方法及びプログラム	JP2012199322	JP2014056305A	JP5523525B	"丹野  治門
-張  暁晶"
-1.	公開	DBデータデバッグ支援装置及び方法及びプログラム	JP2012199323	JP2014056306A		"丹野  治門
-張  暁晶"
-1.	登録	テストパス中に複数の参照アクセスをもつテスト用のデータ生成装置及び方法及びプログラム	JP2012199324	JP2014056307A	JP5523526B	"丹野  治門
-張  暁晶"
-1.	登録	異常系シナリオの組合せのテスト項目生成装置及び方法及びプログラム	JP2011195929	JP2013058073A	JP5384587B	"丹野  治門
-張  暁晶
-星野  隆"
-1.	登録	単独の異常系シナリオを任意回数実行するテスト項目生成装置及び方法及びプログラム	JP2011195930	JP2013058074A	JP5404720B	"丹野  治門
-張  暁晶
-星野  隆"
-1.	登録	シナリオテストのテスト項目生成装置及び方法及びプログラム	JP2011195931	JP2013058075A	JP5404721B	"張  暁晶
-丹野  治門
-星野  隆"
-1.	登録	テストデータ生成装置及び方法	JP2011087672	JP2012221311A	JP5514143B	"丹野  治門
-張  暁晶
-星野  隆"
-1.	公開	テストデータ生成装置及び方法	JP2011087673	JP2012221312A	JP5514144B	"丹野  治門
-張  暁晶
-星野  隆"
-1.	登録	テストデータ生成装置及び方法	JP2011087674	JP2012221313A	JP5514145B	"丹野  治門
-張  暁晶
-星野  隆"
-1.	公開	テストデータ生成装置及び方法	JP2011087675	JP2012221314A	JP5514146B	"丹野  治門
-張  暁晶
-星野  隆"
-1.	登録	テスト用入力データ生成装置及び方法及びプログラム	JP2011045688	JP2012181782A	JP5478540B	"張  暁晶
-丹野  治門
-星野  隆"
-1.	公開	テスト項目生成装置及び方法及びプログラム	JP2010108361	JP2011237991A		"丹野  治門
-張  暁晶
-星野  隆"
-1.	公開	テスト項目生成装置及び方法及びプログラム	JP2010108362	JP2011237992A		"丹野  治門
-張  暁晶
-星野  隆"
-1.	登録	テスト項目生成方法及び装置及びプログラム	JP2010022105	JP2011159202A	JP4966386B	"丹野  治門
-張  暁晶
-星野  隆"
+1. 公開　プログラム生成装置、プログラム生成方法及びプログラム（出願番号 JP2021104657、公開番号 JP2023003531A）: 倉林 利行、丹野 治門、切貫 弘之、但馬 将貴、まつ本 真佑
+1. 登録　テスト支援装置、テスト支援方法及びプログラム（出願番号 JP2023517014、登録番号 JP7597211）: 安達 悠、丹野 治門、切貫 弘之
+1. 登録　テストデータ生成装置、テストデータ生成方法、及びプログラム（出願番号 JP2021558103、登録番号 JP7268759B）: 安達 悠、丹野 治門、吉村 優、切貫 弘之、倉林 利行
+1. 登録　操作パターン生成装置、操作パターン生成方法及びプログラム（出願番号 JP2021554490、登録番号 JP7283569B）: 吉村 優、安達 悠、丹野 治門、切貫 弘之、倉林 利行
+1. 登録　テスト情報抽出装置、テスト情報抽出方法及びプログラム（出願番号 JP2021553903、登録番号 JP7322964B）: 岩塚 卓弥、丹野 治門、倉林 利行
+1. 公開　バグ同定支援装置、バグ同定支援方法及びプログラム（出願番号 JP2019117779、公開番号 JP2021005171A）: 丹野 治門、倉林 利行、切貫 弘之、肥後 芳樹、まつ本 真佑、楠本 真二
+1. 登録　画面遷移集約装置、画面遷移集約方法及びプログラム（出願番号 JP2021522595、登録番号 JP7201080B）: 倉林 利行、丹野 治門、安達 悠、切貫 弘之、吉村 優
+1. 登録　テストスクリプト生成装置、テストスクリプト生成方法及びプログラム（出願番号 JP2021521693、登録番号 JP7259949B）: 倉林 利行、丹野 治門、安達 悠、切貫 弘之、吉村 優
+1. 登録　テスト装置、テスト方法及びプログラム（出願番号 JP2021519078、登録番号 JP7318704B）: 切貫 弘之、丹野 治門、倉林 利行
+1. 登録　テスト装置、テスト方法及びプログラム（出願番号 JP2021518283、登録番号 JP7327471B）: 安達 悠、丹野 治門、倉林 利行、吉村 優、切貫 弘之
+1. 登録　入力値設定補助装置、入力値設定補助方法及びプログラム（出願番号 JP2019074723、公開番号 JP2020173592A、登録番号 JP7211229B）: 丹野 治門、切貫 弘之、倉林 利行、吉村 優、安達 悠
+1. 登録　類似遷移特定装置、類似遷移特定方法及びプログラム（出願番号 JP2019075121、公開番号 JP2020173615A、登録番号 JP7127601B）: 吉村 優、丹野 治門、安達 悠、切貫 弘之、倉林 利行
+1. 登録　解析装置、解析方法、及びプログラム（出願番号 JP2019074376、公開番号 JP2020173570A、登録番号 JP7211228B）: 安達 悠、丹野 治門、切貫 弘之、吉村 優、倉林 利行
+1. 登録　テストデータ生成装置、テストデータ生成方法及びプログラム（出願番号 JP2018200642、公開番号 JP2020067859A、登録番号 JP7070328B）: 切貫 弘之、倉林 利行、丹野 治門
+1. 公開　プログラム修正装置、プログラム修正方法及びプログラム（出願番号 JP2018121890、公開番号 JP2020004003A）: 丹野 治門、倉林 利行、切貫 弘之、肥後 芳樹、楠本 真二、まつ本 真佑
+1. 登録　画面判別装置、画面判別方法及びプログラム（出願番号 JP2018098710、公開番号 JP2019204265A、登録番号 JP6792592B）: 倉林 利行、丹野 治門、伊山 宗吉、切貫 弘之
+1. 登録　画面差異抽出装置及びプログラム（出願番号 JP2018006712、公開番号 JP2019102042A、登録番号 JP6718473B）: 安達 悠、丹野 治門
+1. 登録　テスト実行装置及びプログラム（出願番号 JP2017233974、公開番号 JP2019101889A、登録番号 JP6723976B）: 倉林 利行、伊山 宗吉、丹野 治門、切貫 弘之
+1. 公開　差異画像生成装置及びプログラム（出願番号 JP2017232823、公開番号 JP2019101819A）: 丹野 治門、安達 悠
+1. 登録　テストスクリプト修正装置及びプログラム（出願番号 JP2017228933、公開番号 JP2019101537A、登録番号 JP6840656B）: 切貫 弘之、丹野 治門
+1. 登録　テストスクリプト修正装置及びプログラム（出願番号 JP2017228934、公開番号 JP2019101538A、登録番号 JP6891779B）: 切貫 弘之、丹野 治門
+1. 登録　画面差異検出装置及びプログラム（出願番号 JP2017055707、公開番号 JP2018160003A、登録番号 JP6543649B）: 丹野 治門、安達 悠、鬼頭 宏幸、生沼 守英
+1. 登録　テストスクリプト修正装置及びテストスクリプト修正プログラム（出願番号 JP2016235069、公開番号 JP2018092361A、登録番号 JP6645955B）: 切貫 弘之、丹野 治門
+1. 登録　テストスクリプト修正装置及びテストスクリプト修正プログラム（出願番号 JP2016235070、公開番号 JP2018092362A、登録番号 JP6689734B）: 切貫 弘之、丹野 治門
+1. 登録　画面差異抽出装置、画面差異抽出方法、及びプログラム（出願番号 JP2016017972、公開番号 JP2017138713A、登録番号 JP6608719B）: 丹野 治門、張 暁晶
+1. 登録　画面差異確認支援装置、画面差異確認支援方法、及びプログラム（出願番号 JP2016017973、公開番号 JP2017138714A、登録番号 JP6476144B）: 丹野 治門、張 暁晶
+1. 登録　画面差異合否判定装置、画面差異合否判定方法、及びプログラム（出願番号 JP2016017974、公開番号 JP2017138715A、登録番号 JP6476145B）: 丹野 治門、張 暁晶
+1. 登録　画面差異評価装置、画面差異評価方法、及びプログラム（出願番号 JP2016017975、公開番号 JP2017138716A、登録番号 JP6476146B）: 張 暁晶、丹野 治門
+1. 登録　画面差異抽出装置、画面差異抽出方法、及びプログラム（出願番号 JP2016017976、公開番号 JP2017138717A、登録番号 JP6476147B）: 張 暁晶、丹野 治門
+1. 公開　優先度付きテストシナリオ生成装置、優先度付きテストシナリオ生成方法、及びプログラム（出願番号 JP2015150718、公開番号 JP2017033158A）: 丹野 治門、生沼 守英、高田 眞吾
+1. 登録　複数入力変数に対する正常系テストデータ生成装置、方法、及びプログラム（出願番号 JP2014210773、公開番号 JP2016081228A、登録番号 JP6007220B）: 張 暁晶、丹野 治門
+1. 登録　複数入力変数に対する異常系テストデータ生成装置、方法、及びプログラム（出願番号 JP2014210774、公開番号 JP2016081229A、登録番号 JP6007221B）: 張 暁晶、丹野 治門
+1. 登録　複数入力変数に対する仕様を効率的に網羅できる異常系テストデータ生成装置、方法、及びプログラム（出願番号 JP2014210775、公開番号 JP2016081230A、登録番号 JP6007222B）: 張 暁晶、丹野 治門
+1. 登録　複数入力変数に対する視認性が高い異常系テストデータ生成装置、方法、及びプログラム（出願番号 JP2014210776、公開番号 JP2016081231A、登録番号 JP6007223B）: 張 暁晶、丹野 治門
+1. 登録　同値テストデータ生成装置、方法及びプログラム（出願番号 JP2014210777、公開番号 JP2016081232A、登録番号 JP6067642B）: 丹野 治門、張 暁晶
+1. 登録　境界値テストデータ生成装置、方法及びプログラム（出願番号 JP2014210778、公開番号 JP2016081233A、登録番号 JP6067643B）: 丹野 治門、張 暁晶
+1. 登録　優先度付き境界値テストデータ生成装置、方法及びプログラム（出願番号 JP2014210779、公開番号 JP2016081234A、登録番号 JP5965455B）: 丹野 治門、張 暁晶
+1. 登録　不等号誤りを検出する境界値テストデータ生成装置、方法及びプログラム（出願番号 JP2014210780、公開番号 JP2016081235A、登録番号 JP6067644B）: 丹野 治門、張 暁晶
+1. 公開　バグ予測装置及び方法及びプログラム（出願番号 JP2014151117、公開番号 JP2016024784A）: 田端 啓一、丹野 治門、生沼 守英、村主 一仁
+1. 公開　期待結果生成装置及び方法及びプログラム（出願番号 JP2014136036、公開番号 JP2016014973A）: 丹野 治門、生沼 守英、高田 眞吾
+1. 公開　テストシナリオバリエーション生成装置及び方法及びプログラム（出願番号 JP2013147851、公開番号 JP2015022356A）: 丹野 治門、生沼 守英、ラカニエンタ ロジーン、高田 眞吾
+1. 公開　最小のテストデータ生成装置及び方法及びプログラム（出願番号 JP2012199321、公開番号 JP2014056304A）: 丹野 治門、張 暁晶
+1. 登録　テストパス中に更新アクセスを持つテスト用のデータ生成装置及び方法及びプログラム（出願番号 JP2012199322、公開番号 JP2014056305A、登録番号 JP5523525B）: 丹野 治門、張 暁晶
+1. 公開　DBデータデバッグ支援装置及び方法及びプログラム（出願番号 JP2012199323、公開番号 JP2014056306A）: 丹野 治門、張 暁晶
+1. 登録　テストパス中に複数の参照アクセスをもつテスト用のデータ生成装置及び方法及びプログラム（出願番号 JP2012199324、公開番号 JP2014056307A、登録番号 JP5523526B）: 丹野 治門、張 暁晶
+1. 登録　異常系シナリオの組合せのテスト項目生成装置及び方法及びプログラム（出願番号 JP2011195929、公開番号 JP2013058073A、登録番号 JP5384587B）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　単独の異常系シナリオを任意回数実行するテスト項目生成装置及び方法及びプログラム（出願番号 JP2011195930、公開番号 JP2013058074A、登録番号 JP5404720B）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　シナリオテストのテスト項目生成装置及び方法及びプログラム（出願番号 JP2011195931、公開番号 JP2013058075A、登録番号 JP5404721B）: 張 暁晶、丹野 治門、星野 隆
+1. 登録　テストデータ生成装置及び方法（出願番号 JP2011087672、公開番号 JP2012221311A、登録番号 JP5514143B）: 丹野 治門、張 暁晶、星野 隆
+1. 公開　テストデータ生成装置及び方法（出願番号 JP2011087673、公開番号 JP2012221312A、登録番号 JP5514144B）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　テストデータ生成装置及び方法（出願番号 JP2011087674、公開番号 JP2012221313A、登録番号 JP5514145B）: 丹野 治門、張 暁晶、星野 隆
+1. 公開　テストデータ生成装置及び方法（出願番号 JP2011087675、公開番号 JP2012221314A、登録番号 JP5514146B）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　テスト用入力データ生成装置及び方法及びプログラム（出願番号 JP2011045688、公開番号 JP2012181782A、登録番号 JP5478540B）: 張 暁晶、丹野 治門、星野 隆
+1. 公開　テスト項目生成装置及び方法及びプログラム（出願番号 JP2010108361、公開番号 JP2011237991A）: 丹野 治門、張 暁晶、星野 隆
+1. 公開　テスト項目生成装置及び方法及びプログラム（出願番号 JP2010108362、公開番号 JP2011237992A）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　テスト項目生成方法及び装置及びプログラム（出願番号 JP2010022105、公開番号 JP2011159202A、登録番号 JP4966386B）: 丹野 治門、張 暁晶、星野 隆
 
 **米国**
 1. B2 Input value setting assisting apparatus, input value setting assisting method and program US17/601892  US12153942B2 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
@@ -562,7 +423,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 ## 招待講演
 1. "産学連携における傾向と対策"（パネルセッション）, ソフトウェア開発における産学協創フォーラム, 2019年7月1日 ([資料](https://www.slideshare.net/hidetoonoguchi/ss-153262157?ref=https://saicollo.connpass.com/event/131725/presentation/))
 1. "企業のソフトウェア開発に対する自動プログラム修正技術適用に関する産学連携事例紹介", ソフトウェア開発における産学協創フォーラム, 2019年7月1日 ([発表資料](https://www.slideshare.net/ToshiyukiKurabayashi/ss-153331243?ref=https://saicollo.connpass.com/event/131725/presentation/))
-1. "テスト自動化の基本的な考え方とNTTにおける研究開発の紹介", 第25回 SPIトワイライトフォーラム, 2019年3月26日 ([概要](http://www.jaspic.org/events/twilight/2019-03/), [発表資料](http://www.jaspic.org/wordpress/wp-content/uploads/JASPIC_SPI-TwilightForum_20190326.pdf))
+1. "テスト自動化の基本的な考え方とNTTにおける研究開発の紹介", 第25回 SPIトワイライトフォーラム, 2019年3月26日 ([概要](https://www.jaspic.org/events/twilight/tw2019-03/), [発表資料](https://www.jaspic.org/wordpress/wp-content/uploads/JASPIC_SPI-TwilightForum_20190326.pdf))
 1. "ソフトウェアの研究開発は楽しく", Application Developer Festival 2015 (株式会社リクルートホールディングス)([参考記事](https://oldrelease.recruit-holdings.co.jp/news_data/release/2015/0302_15663.html))にて講演, 2015年3月28日
 1. "Test Automation Technology to Reduce Development Costs and Maintain Software Quality", Berkeley Programming Systems (Chaperone) Retreat, 9th May, 2014
 1. "ソフトウェア開発の楽しさ", 名古屋工業大学の講義「情報工学概論」(情報処理系学生165名が受講), 2008年12月17日([参考：IPA平成２０年度業務実績(p118)](https://www.ipa.go.jp/about/cdk3vs0000002z18-att/000001034.pdf#page=120))
@@ -570,5 +431,5 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 
 ## 学位論文
 - Haruto Tanno: "Software Test Automation for Database Applications with Graphical User Interfaces", 電気通信大学大学院 情報理工学研究科　情報・ネットワーク工学専攻 博士論文, 2020年6月 ([要旨](https://uec.repo.nii.ac.jp/?action=repository_uri&item_id=9645&file_id=20&file_no=1)，[博士論文](https://uec.repo.nii.ac.jp/?action=repository_uri&item_id=9648&file_id=20&file_no=1))
-- 丹野 治門: "並列スケルトンライブラリSkeToにおける可変長リストの実装と評価", 電気通信大学大学院 電気通信学研究科 情報工学専攻 修士論文, 2009年3月 ([要旨](http://www.lib.uec.ac.jp/limedio/dlam/M463799/5.pdf), [slide](../assets/slides/slide(master%20thesis).pdf))
+- 丹野 治門: "並列スケルトンライブラリSkeToにおける可変長リストの実装と評価", 電気通信大学大学院 電気通信学研究科 情報工学専攻 修士論文, 2009年3月 ([slide](../assets/slides/slide(master%20thesis).pdf))
 - 丹野 治門: "階層型ノンプリエンプティブスレッドを用いたゲームシステム記述言語", 電気通信大学 電気通信学部 情報工学科 卒業論文, 2007年3月 ([slide](../assets/slides/slide(graduation%20thesis).pdf))

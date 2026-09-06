@@ -1,6 +1,6 @@
 [For Japanese version, click here](./index.md)
 
-Last updated: April 2026
+Last updated: September 2026
 # Haruto Tanno
 Ph.D. in Engineering | Microsoft MVP (Developer Technologies/.NET) 
 
@@ -17,7 +17,7 @@ providing personalized guidance and hands-on support primarily to individual dev
 This includes advising on practical engineering challenges they face in their professional work, such as corporate development projects and entrepreneurial product development.
 
 In addition, I am actively engaged in technical education and content creation focused on C#
-—including a blog with 25,000+ monthly page views and a YouTube channel with 4,000+ subscribers—
+—including a [blog](https://prota-p.com/) with 25,000+ monthly page views and a [YouTube channel](https://www.youtube.com/@prota_pro) with 4,000+ subscribers—
 as well as independent R&D projects such as a real-time debugging framework.
 
 Through these combined activities, I aim to advance software engineering practices
@@ -27,8 +27,8 @@ and contribute to the growth of the next generation of developers.
 
 **Professional Experience**
 
-- **July 2024 – Present**: Programming Innovation Lab (Self-employed). Engaged in consulting, information dissemination, and other services related to programming and software development.
-- **November 2024**: Guest Lecturer, School of Science and Technology, Meiji University. Delivered a special lecture on "Software Test Automation".
+- **July 2024 – Present**: Programming Innovation Lab (Self-employed). Provides mentoring, technical advisory, and technical content on software development and generative AI.
+- **November 2024, November 2025**: Guest Lecturer, School of Science and Technology, Meiji University. Delivered special lectures on "Software Test Automation".
 - **April 2009 – June 2024**: Nippon Telegraph and Telephone Corporation (now NTT, Inc.). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
 - **October 2007 – February 2008**: Teaching Assistant, Department of Electronic and Communication Engineering, University of Electronic Communications. Conducted lectures and exercises in Basic Programming.
 - **June 2003 – January 2007**: Part-time Instructor at Shingakusha, Kotesashi Branch. Engaged in group and individual tutoring, parent-teacher meetings, and career counseling.
@@ -44,44 +44,28 @@ The University of Electro-Communications, Tokyo, Japan
 
 ## Research and Technical Expertise
 
-**Research Areas**
+**Areas of Expertise**
+- **Software Test Automation**: model-based testing, symbolic execution, regression testing, exploratory testing
+- **Debugging**: real-time debugging, visualization
+- **Programming Languages**: domain-specific languages, code transformation, code analysis
+- **Application Development with C#/.NET**: ASP.NET Core Blazor, desktop applications (WPF / WinForms / Avalonia UI), Roslyn, application design (Clean Architecture, DDD)
+- **Software Engineering for Generative AI and AI Agents**: harness engineering (agent instructions, purpose-built tools, guardrails, and review infrastructure for AI agents), design of development tools used by AI agents, generative-AI-based test automation
 
-- **Software Test Automation**
-  - Model-based testing, symbolic execution, regression testing, exploratory testing
-- **Debugging**
-  - Real-time debugging, visualization
-- **Programming Languages**
-  - Domain-specific languages, code transformation, code analysis
-- **Application of Generative AI in Software Engineering**
-  - Development process and architecture design assuming the use of generative AI
-  - Automation of various software development tasks using prompt engineering and fine-tuning
+**Strengths**
+1. **End-to-end execution from research to commercialization**: Led software test automation research through to tooling, business deployment, and open-source release (TesMa, ULTDiff, Regumo, and LatteArt; see below). Led multi-organization and industry-academia projects, and proposed R&D visions and roadmaps to senior management.
+1. **Technical mentoring and talent development**: From cram-school instructor and university teaching assistant, through developing junior researchers at NTT Laboratories, to guest lecturer at Meiji University. Currently provides personalized guidance and hands-on support to individual developers, and consults on their real-world projects (corporate development, startups). Continues technical outreach via a [blog](https://prota-p.com/) and [YouTube](https://www.youtube.com/@prota_pro).
+1. **Exploring software development and talent development in the age of generative AI**: Pursues, as a consistent theme, the design of development processes, technology-driven support and automation, and talent development that make software development **both enjoyable and efficient**, and explores **how generative AI is changing, and should change, software development and talent development** from three perspectives: as a researcher, a developer, and a mentor.
 
-**Areas of Interest**
+**Major Products (NTT Laboratories)**
+1. TesMa, a functional test design support tool (Oct. 2013, [NTT Technical Journal article (in Japanese)](http://www.ntt.co.jp/journal/1310/files/jn201310019.pdf))
+1. ULTDiff, a UI layout testing tool (Apr. 2017, launched as a service at NTT Resonant, [Nikkei article (in Japanese)](https://www.nikkei.com/article/DGXLRSP444412_Z00C17A5000000/); Jul. 2019, Industry-Academia Co-creation Forum, [slides (in Japanese)](https://www.slideshare.net/ToshiyukiKurabayashi/visual-regression-testing-153329603))
+1. Regumo, a reverse-based testing technique (Apr. 2018, ICST 2018 [demo video](https://www.youtube.com/watch?v=amLyaGb4c_E); Jul. 2019, Industry-Academia Co-creation Forum, [slides (in Japanese)](https://www.slideshare.net/ToshiyukiKurabayashi/regumo))
+1. A testing approach and tool based on recording and analyzing test activities (Sep. 2019, presented and awarded at SQiP 2019, [NTT R&D website (in Japanese)](https://www.rd.ntt/cct/news/achievements/2019/302.html); LatteArt released as open source, [GitHub](https://github.com/latteart-org/latteart))
 
-In pursuit of making software development **both enjoyable and efficient**, my areas of interest include:
-
-- Determining the optimal software development process.
-- Exploring how technology can assist and automate specific processes and tasks.
-- Developing strategies for effective personnel development and cultural cultivation.
-
-Recently, I have been particularly interested in **how the emergence of generative AI is changing, and should change, software development and talent development**.
-
-**Development Skills**
-
-- **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and OSS development.
-- **Programming Languages**: Skilled in C#, Java, C/C++, Python, JavaScript/TypeScript.
-- **Frameworks & Tools**: Experienced with ASP.NET Core (Blazor, MVC), Django, Node.js, Roslyn, DirectX, Docker/Docker Compose.
-- **Cloud Platforms**: Familiar with AWS and Azure.
-- **Test Automation**: Proficient in Selenium and Playwright.
-- **CI/CD**: Skilled in using GitHub Actions.
-- **Generative AI**: Experienced with ChatGPT, Claude3, OpenAI API, and GitHub Copilot for code assistance and content generation.
-
-**Management Skills**
-
-- **Strategic Planning**: Expert in formulating research and development visions and roadmaps, clearly articulating strategic directions to senior management.
-- **Talent Development and Career Support**: Committed to supporting subordinates in research, paper writing, and development management. Offers opportunities in conference management and other activities, aiding in career advancement.
-- **Inter-company Collaboration**: Proficient in advancing collaborations with group companies and other enterprises, effectively managing research and development projects across multiple organizations.
-- **Industry-Academia Collaboration**: Skilled in establishing close cooperative relationships with universities and research institutions, promoting innovation through joint research, technology exchange, and talent development.
+**Personal Software Projects**
+1. Real-time debugger for C# applications: a debugging technique that visualizes the internal state of a running program without suspending it, supporting program comprehension and debugging. Under development, building on results from the IPA MITOU Youth program ([exhibited at MITOU Conference 2025 (in Japanese)](../pil/contents/20250309-mitoukaigi/index.md))
+1. [MentorApp (OSS)](https://github.com/prota-p/MentorApp): a Blazor Server reference implementation for learning DDD and Clean Architecture
+1. [CodePromptus (OSS)](https://github.com/prota-p/CodePromptus): a desktop application that selects files from a project and automatically generates prompts for generative AI
 
 ## Awards
 - **Microsoft MVP for Developer Technologies (.NET)**, Microsoft, Oct. 2025.
@@ -106,10 +90,10 @@ Recently, I have been particularly interested in **how the emergence of generati
 1. Haruto Tanno, Xiaojing Zhang: "Test Script Generation Based on Design Documents for Web Application Testing", The 39th Annual International Computers, Software & Applications Conference(COMPSAC 2015)[fast abstract], pp. 672-673, July 2015 ([paper](http://ieeexplore.ieee.org/document/7273458/)).
 1. Koushik Sen, Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "GUIDESE: Annotations for Guiding Concolic Testing", Tenth IEEE/ACM International Workshop on Automation of Software Test (AST 2015), pp. 23-27, May 2015 ([paper](http://ieeexplore.ieee.org/document/7166261/)).
 1. Haruto Tanno, Xiaojing Zhang, Takashi Hoshino, Koushik Sen: "TesMa and CATG: Automated Test Generation Tools for Models of Enterprise Applications", The 37th International Conference on Software Engineering (ICSE 2015)[Demonstrations Track], pp. 717-720, May 2015 ([paper](http://ieeexplore.ieee.org/document/7203051/), [movie](https://www.youtube.com/watch?v=9lEvPwR7g-Q)).
-1. Xiaojing Zhang, Haruto Tanno: "Requirements Document Based Test Scenario Generation for Web Application Scenario Testing", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2015) [short paper], pp. 1-3, April 2015 ([slide](http://www2015.taicpart.org/slides/Zhang-TAICPART2015-Presentation.pdf), [paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7107465&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7107465)).
-1. Hibiki Saito, Shingo Takada, Haruto Tanno, Morihide Oinuma: "Test Data Generation for Web Applications: A Constraint and Knowledge-based Approach", The Twenty-Sixth International Conference on Software Engineering and Knowledge Engineering (SEKE 2014) [short paper], pp. 110-114, July 2014 ([paper](http://ksiresearchorg.ipage.com/seke/seke14paper/seke14paper_44.pdf)).
+1. Xiaojing Zhang, Haruto Tanno: "Requirements Document Based Test Scenario Generation for Web Application Scenario Testing", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2015) [short paper], pp. 1-3, April 2015 ([paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7107465&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7107465)).
+1. Hibiki Saito, Shingo Takada, Haruto Tanno, Morihide Oinuma: "Test Data Generation for Web Applications: A Constraint and Knowledge-based Approach", The Twenty-Sixth International Conference on Software Engineering and Knowledge Engineering (SEKE 2014) [short paper], pp. 110-114, July 2014 ([paper](https://www.semanticscholar.org/paper/Test-Data-Generation-for-Web-Applications%3A-A-and-Saito-Takada/2c4f5b96fee26bda0087fade08686c5dcc2d3f9e)).
 1. Haruto Tanno, Takashi Hoshino: "Reducing the Number of Initial Database States for Integration Testing", The 5th IEEE International Workshop on Software Test Automation (STA 2013), July 2013 ([paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6605764&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6605764)).
-1. Rogene Lacanienta, Shingo Takada, Haruto Tanno, Morihide Oinuma: "A Knowledge-based Approach for Generating Test Scenarios for Web Applications", The Twenty-Fifth International Conference on Software Engineering and Knowledge Engineering (SEKE 2013), June 2013 ([paper](http://index.ksi.edu/conf/seke/2013/cr/67.pdf)).
+1. Rogene Lacanienta, Shingo Takada, Haruto Tanno, Morihide Oinuma: "A Knowledge-based Approach for Generating Test Scenarios for Web Applications", The Twenty-Fifth International Conference on Software Engineering and Knowledge Engineering (SEKE 2013), June 2013 ([paper](https://www.researchgate.net/publication/289149785_A_knowledge-based_approach_for_generating_test_scenarios_for_web_applications)).
 1. Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "Design-Model-Based Test Data Generation for Database Applications", 4th Workshop on Model-based Testing in Practice (MoTiP 2012), pp. 201-206, November 2012 ([paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6405442&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F6403648%2F6405406%2F06405442.pdf%3Farnumber%3D6405442)).
 1. Rogene Lacanienta, Shingo Takada, Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "A mutation test based approach to evaluating test suites for Web applications", Proc. of 10th Joint Conference on Knowledge-Based Software Engineering (JCKBSE 2012), pp. 227-236, September 2012 ([paper](http://ebooks.iospress.nl/publication/7166)).
 1. Xiaojing Zhang, Haruto Tanno, Takashi Hoshino: "Introducing Test Case Derivation Techniques into Traditional Software Development: Obstacles and Potentialities", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2011) [short paper], pp. 559-560, March 2011 ([paper](http://dl.acm.org/citation.cfm?id=2004685.2005451&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
