@@ -63,11 +63,12 @@ The University of Electro-Communications, Tokyo, Japan
 1. A testing approach and tool based on recording and analyzing test activities (Sep. 2019, presented and awarded at SQiP 2019, [NTT R&D website (in Japanese)](https://www.rd.ntt/cct/news/achievements/2019/302.html); LatteArt released as open source, [GitHub](https://github.com/latteart-org/latteart))
 
 **Personal Software Projects**
-1. Real-time debugger for C# applications: a debugging technique that visualizes the internal state of a running program without suspending it, supporting program comprehension and debugging. Under development, building on results from the IPA MITOU Youth program ([exhibited at MITOU Conference 2025 (in Japanese)](../pil/contents/20250309-mitoukaigi/index.md))
+1. Real-time debugger for C# applications: a debugging technique that visualizes the internal state of a running program without suspending it, supporting program comprehension and debugging. Under development, building on results from the IPA MITOU Youth program ([exhibited at MITOU Conference 2025 (in Japanese)](../pil/contents/20250309-mitoukaigi/index.md); [presented at C# Kaigi 2026](https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn), 1st place in attendee voting)
 1. [MentorApp (OSS)](https://github.com/prota-p/MentorApp): a Blazor Server reference implementation for learning DDD and Clean Architecture
 1. [CodePromptus (OSS)](https://github.com/prota-p/CodePromptus): a desktop application that selects files from a project and automatically generates prompts for generative AI
 
 ## Awards
+- **1st Place in Attendee Voting (among all speakers)**, C# Kaigi 2026, Sep. 2026.
 - **Microsoft MVP for Developer Technologies (.NET)**, Microsoft, Oct. 2025.
 - **Best ERA Paper Award**, 28th Asia-Pacific Software Engineering Conference (APSEC 2021), Dec. 2021. 
 
@@ -118,6 +119,7 @@ The University of Electro-Communications, Tokyo, Japan
 13. Haruto Tanno: "Design and Implementation of Real-time Debugger for Game Programming", (in Japanese), IPSJ Transaction on Programming, Vol. 1, No. 2, pp. 42-56, 2008. ([abstract](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=16436&amp;item_no=1)), ([slide](../assets/slides/slide(pro68).pdf)).
 
 **Posters/Demos**
+1. Haruto Tanno: "Realtime Debugger for C# with Roslyn" (in Japanese), C# Kaigi 2026, September 2026 (**1st place in attendee voting**) ([slide](https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn))
 1. Takuya Iwatsuka, Haruto Tanno, Eric Sharidan, Joseph Feiman: "Quick and Precise Security Testing During Development with Intelligence-Directed DAST", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020.
 1. Yu Yoshimura, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "User-Friendly Input Assistance with Web Crawlingfor Test Script Generation", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020.
 Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "COLOR: Correct Locator Recommender for Broken Test Scripts using Various Clues in Web Applications", Software Engineering Symposium 2019 (Invited Lecture, Previously Published Papers Track), August 2019.

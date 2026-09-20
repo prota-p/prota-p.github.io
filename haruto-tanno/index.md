@@ -76,12 +76,13 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
    - LatteArtをOSSとして公開 ([GitHub](https://github.com/latteart-org/latteart))
 
 **個人で開発しているソフトウェア**
-1. C#アプリ向けリアルタイムデバッガ：動作中のプログラムを停止させずに内部状態を可視化し、挙動の理解やデバッグを支援する技術。未踏ユース時代の成果を出発点に研究開発中（[未踏会議2025で展示](../pil/contents/20250309-mitoukaigi/index.md)）
+1. C#アプリ向けリアルタイムデバッガ：動作中のプログラムを停止させずに内部状態を可視化し、挙動の理解やデバッグを支援する技術。未踏ユース時代の成果を出発点に研究開発中（[未踏会議2025で展示](../pil/contents/20250309-mitoukaigi/index.md)、[C# Kaigi 2026で発表](https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn)・人気投票 1 位）
 1. [MentorApp (OSS)](https://github.com/prota-p/MentorApp)：DDD＋クリーンアーキテクチャによる Blazor Server 学習用リファレンス実装
 1. [CodePromptus (OSS)](https://github.com/prota-p/CodePromptus)：プロジェクトのファイルを選択して生成AI向けプロンプトを自動生成するデスクトップアプリ
 
 ## 受賞
 **自身の受賞**
+1. 2026年9月 人気投票 1 位（参加者投票・全登壇者中 1 位。副賞: Anders Hejlsberg 氏のサイン色紙）, [C# Kaigi 2026](https://csharpkaigi.net/), "動作中のプログラムの中身をリアルタイムに覗く — 実行を止めないデバッガのコンセプトとRoslyn計装によるC#実装" (丹野 治門)
 1. 2025年10月 [Microsoft MVP for Developer Technologies（.NET）](https://mvp.microsoft.com/ja-JP/MVP/profile/7223f496-33c3-4050-bb00-617e3e349151), Microsoft
 1. 2025年9月 [解説論文賞](https://www.jssst.or.jp/award/detail/kaisetsu_ronbunsho_list.html), 日本ソフトウェア科学会, "プログラム合成技術の動向調査" (倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志)
 1. 2024年9月 [研究奨励賞](https://ses.sigse.jp/2024/), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2024, "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査" (切貫 弘之、丹野 治門)
@@ -230,6 +231,7 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 丹野 治門: "ゲームシステム記述言語kameTLにおけるリアルタイムデバッグ機構", 情報処理学会第49回プログラミングシンポジウム報告集, pp.17-24, 2008. 2008年1月 (**山内奨励賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&item_id=91516&item_no=1&page_id=13&block_id=8))
 
 **ポスター/デモ/口頭発表**
+1. 丹野 治門: "動作中のプログラムの中身をリアルタイムに覗く — 実行を止めないデバッガのコンセプトとRoslyn計装によるC#実装", [C# Kaigi 2026](https://fortee.jp/csharpkaigi-2026/proposal/c10f063e-075f-4c93-a65b-ddaeebda6823), 2026年9月 (**人気投票 1 位**) ([slide](https://speakerdeck.com/prota/realtime-debugger-for-csharp-with-roslyn))
 1. 丹野 治門, "C#アプリ向けリアルタイムデバッガ ～動作中のプログラムの中身を覗いて挙動を理解できる技術～", [未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/),2025年3月, ([展示内容](../pil/contents/20250309-mitoukaigi/))
 1. 切貫弘之，丹野治門: "ChatGPTによるブラックボックステストおよび人間との協調可能性について", 第30回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2023年11月 (**ポスター・デモ賞**)
 1. 秋信 有花, 切貫 弘之, 丹野 治門: "高速なプロダクト進化のための改善案自動推薦手法の検討", NLP若手の会(YANS) 第18回シンポジウム (ポスターセッション), 2023年8月
