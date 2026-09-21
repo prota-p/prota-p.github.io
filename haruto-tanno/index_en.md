@@ -4,6 +4,8 @@ Last updated: September 2026
 # Haruto Tanno
 Ph.D. in Engineering | Microsoft MVP (Developer Technologies/.NET) 
 
+Co-founder & CTO, Mocobell | Mentor & Technical Advisor in Software Development and Generative AI | Technical Content on C#/.NET
+
 <img src="../assets/images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
 ## Summary
