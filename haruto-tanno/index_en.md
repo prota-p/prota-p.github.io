@@ -12,13 +12,13 @@ I have led end-to-end initiatives spanning research and development in software 
 During my time at NTT Laboratories, I led numerous collaborative projects involving group companies, external partners, and academic institutions, contributing substantially to translating research outcomes into practical services.
 My track record includes over 100 research publications (including papers at top-tier international conferences), more than 50 domestic and 20 U.S. patents, and over 20 awards from academic societies and industry organizations.
 
-Currently, I work as a mentor and technical advisor in software development and generative AI,
+In September 2026, I co-founded Mocobell, where I serve as Co-founder & CTO, leading R&D in software engineering premised on generative AI (including long-term technology development built on C#/.NET) and the development of the company's online learning service.
+Alongside this, I work as a mentor and technical advisor in software development and generative AI,
 providing personalized guidance and hands-on support primarily to individual developers.
 This includes advising on practical engineering challenges they face in their professional work, such as corporate development projects and entrepreneurial product development.
 
 In addition, I am actively engaged in technical education and content creation focused on C#
-—including a [blog](https://prota-p.com/) with 25,000+ monthly page views and a [YouTube channel](https://www.youtube.com/@prota_pro) with 4,000+ subscribers—
-as well as independent R&D projects such as a real-time debugging framework.
+—including a [blog](https://prota-p.com/) with 25,000+ monthly page views and a [YouTube channel](https://www.youtube.com/@prota_pro) with 4,000+ subscribers.
 
 Through these combined activities, I aim to advance software engineering practices
 and contribute to the growth of the next generation of developers.
@@ -27,6 +27,7 @@ and contribute to the growth of the next generation of developers.
 
 **Professional Experience**
 
+- **September 2026 – Present**: Co-founder & CTO (Board Director), [Mocobell](https://mocobell.co.jp/). Responsible for R&D in software engineering premised on generative AI (long-term technology development built on C#/.NET) and for the development of the company's online learning service.
 - **July 2024 – Present**: Programming Innovation Lab (Self-employed). Provides mentoring, technical advisory, and technical content on software development and generative AI.
 - **November 2024, November 2025**: Guest Lecturer, School of Science and Technology, Meiji University. Delivered special lectures on "Software Test Automation".
 - **April 2009 – June 2024**: Nippon Telegraph and Telephone Corporation (now NTT, Inc.). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
