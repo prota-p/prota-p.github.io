@@ -1,6 +1,6 @@
 [For Japanese version, click here](./index.md)
 
-Last updated: September 2026
+Last updated: October 2026
 # Haruto Tanno
 Ph.D. in Engineering · Microsoft MVP (Developer Technologies/.NET)
 
@@ -139,6 +139,10 @@ Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "COLOR: Correct Locator Re
 1. Haruto Tanno, Xiaojing Zhang, Keiichi Tabata, Morihide Oinuma, Kazuhito Suguri: "Test Automation Technology to Reduce Development Costs and Maintain Software Quality", NTT Technical Review, January 2014 Vol. 12 No. 1, January 2014. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201401fa3.html))
 
 ## Patents
+1. B2 Test support apparatus, test support method and program US18/557274  US12693963B2 "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki"
+1. B2 Test support apparatus and method for testing web applications US18/555629  US12585576B2 "Hiroyuki Kirinuki, Haruto Tanno, Yu Adachi"
+1. A1 Test apparatus, test method and program US18/703031 US20250265175A1  "Masaki Tajima, Hiroyuki Kirinuki, Haruto Tanno, Takahiro Kawaguchi, Takako Kawaguchi"
+1. B2 Apparatus, method, and program for generating a test script for a web application based on screen transitions US17/601885  US12222845B2 "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Yu Yoshimura, Toshiyuki Kurabayashi"
 1. B2 Input value setting assisting apparatus, input value setting assisting method and program US17/601892  US12153942B2 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
 1. B2 Test apparatus, test method and program US17/609291  US12141054B2 "Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, Hiroyuki Kirinuki"
 1. A1 Program generation apparatus, program generation method and program US18/558200 US20240248685A1  "Toshiyuki Kurabayashi, Yu Yoshimura, Haruto Tanno"

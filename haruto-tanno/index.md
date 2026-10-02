@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2026年9月
+最終更新日: 2026年10月
 
 # 丹野 治門（たんの　はると）
 博士（工学）｜Microsoft MVP（Developer Technologies／.NET）｜IPA未踏ユース スーパークリエータ
@@ -296,6 +296,9 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 ## 特許
 
 **日本**
+1. 公開　ソースコード生成支援装置、ソースコード生成支援方法及びプログラム（出願番号 JP2024168588、公開番号 JP2026060181A）: 倉林 利行、秋信 有花、川口 貴子、丹野 治門、倉光 君郎
+1. 登録　データ変換装置、データ変換方法及びプログラム（出願番号 JP2024555484（PCT/JP2022/036978）、登録番号 JP7859519B）: 倉林 利行、丹野 治門
+1. 登録　テスト装置、テスト方法、及びプログラム（出願番号 JP2023554216（PCT/JP2021/039131）、登録番号 JP7619473B）: 但馬 将貴、切貫 弘之、丹野 治門、川口 敬宏、川口 貴子
 1. 公開　プログラム生成装置、プログラム生成方法及びプログラム（出願番号 JP2021104657、公開番号 JP2023003531A）: 倉林 利行、丹野 治門、切貫 弘之、但馬 将貴、まつ本 真佑
 1. 登録　テスト支援装置、テスト支援方法及びプログラム（出願番号 JP2023517014、登録番号 JP7597211）: 安達 悠、丹野 治門、切貫 弘之
 1. 登録　テストデータ生成装置、テストデータ生成方法、及びプログラム（出願番号 JP2021558103、登録番号 JP7268759B）: 安達 悠、丹野 治門、吉村 優、切貫 弘之、倉林 利行
@@ -345,15 +348,19 @@ NTT研究所在籍時には、ソフトウェアテスト自動化や生成AI応
 1. 登録　単独の異常系シナリオを任意回数実行するテスト項目生成装置及び方法及びプログラム（出願番号 JP2011195930、公開番号 JP2013058074A、登録番号 JP5404720B）: 丹野 治門、張 暁晶、星野 隆
 1. 登録　シナリオテストのテスト項目生成装置及び方法及びプログラム（出願番号 JP2011195931、公開番号 JP2013058075A、登録番号 JP5404721B）: 張 暁晶、丹野 治門、星野 隆
 1. 登録　テストデータ生成装置及び方法（出願番号 JP2011087672、公開番号 JP2012221311A、登録番号 JP5514143B）: 丹野 治門、張 暁晶、星野 隆
-1. 公開　テストデータ生成装置及び方法（出願番号 JP2011087673、公開番号 JP2012221312A、登録番号 JP5514144B）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　テストデータ生成装置及び方法（出願番号 JP2011087673、公開番号 JP2012221312A、登録番号 JP5514144B）: 丹野 治門、張 暁晶、星野 隆
 1. 登録　テストデータ生成装置及び方法（出願番号 JP2011087674、公開番号 JP2012221313A、登録番号 JP5514145B）: 丹野 治門、張 暁晶、星野 隆
-1. 公開　テストデータ生成装置及び方法（出願番号 JP2011087675、公開番号 JP2012221314A、登録番号 JP5514146B）: 丹野 治門、張 暁晶、星野 隆
+1. 登録　テストデータ生成装置及び方法（出願番号 JP2011087675、公開番号 JP2012221314A、登録番号 JP5514146B）: 丹野 治門、張 暁晶、星野 隆
 1. 登録　テスト用入力データ生成装置及び方法及びプログラム（出願番号 JP2011045688、公開番号 JP2012181782A、登録番号 JP5478540B）: 張 暁晶、丹野 治門、星野 隆
 1. 公開　テスト項目生成装置及び方法及びプログラム（出願番号 JP2010108361、公開番号 JP2011237991A）: 丹野 治門、張 暁晶、星野 隆
 1. 公開　テスト項目生成装置及び方法及びプログラム（出願番号 JP2010108362、公開番号 JP2011237992A）: 丹野 治門、張 暁晶、星野 隆
 1. 登録　テスト項目生成方法及び装置及びプログラム（出願番号 JP2010022105、公開番号 JP2011159202A、登録番号 JP4966386B）: 丹野 治門、張 暁晶、星野 隆
 
 **米国**
+1. B2 Test support apparatus, test support method and program US18/557274  US12693963B2 "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki"
+1. B2 Test support apparatus and method for testing web applications US18/555629  US12585576B2 "Hiroyuki Kirinuki, Haruto Tanno, Yu Adachi"
+1. A1 Test apparatus, test method and program US18/703031 US20250265175A1  "Masaki Tajima, Hiroyuki Kirinuki, Haruto Tanno, Takahiro Kawaguchi, Takako Kawaguchi"
+1. B2 Apparatus, method, and program for generating a test script for a web application based on screen transitions US17/601885  US12222845B2 "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Yu Yoshimura, Toshiyuki Kurabayashi"
 1. B2 Input value setting assisting apparatus, input value setting assisting method and program US17/601892  US12153942B2 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
 1. B2 Test apparatus, test method and program US17/609291  US12141054B2 "Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, Hiroyuki Kirinuki"
 1. A1 Program generation apparatus, program generation method and program US18/558200 US20240248685A1  "Toshiyuki Kurabayashi, Yu Yoshimura, Haruto Tanno"
