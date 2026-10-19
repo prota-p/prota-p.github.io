@@ -20,7 +20,7 @@ providing personalized guidance and hands-on support primarily to individual dev
 This includes advising on practical engineering challenges they face in their professional work, such as corporate development projects and entrepreneurial product development.
 
 In addition, I am actively engaged in technical education and content creation focused on C#
-—including a [blog](https://prota-p.com/) with 25,000+ monthly page views and a [YouTube channel](https://www.youtube.com/@prota_pro) with 4,000+ subscribers.
+—including a [blog](https://prota-p.com/) and a [YouTube channel](https://www.youtube.com/@prota_pro) with 4,000+ subscribers.
 
 Through these combined activities, I aim to advance software engineering practices
 and contribute to the growth of the next generation of developers.
